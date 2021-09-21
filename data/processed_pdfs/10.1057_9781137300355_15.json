@@ -1,0 +1,2000 @@
+{
+    "paper_id": "10",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-09-21T21:51:17.008134Z"
+    },
+    "title": "Mediatized Politics -Structures and Strategies of Discursive Participation and Online Deliberation on Twitter",
+    "authors": [
+        {
+            "first": "Caja",
+            "middle": [],
+            "last": "Thimm",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Mark",
+            "middle": [],
+            "last": "Dang-Anh",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Jessica",
+            "middle": [],
+            "last": "Einsp\u00e4nner",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "In today's social environments, many activities implying the construction of cultural and social meaning are intrinsically tied to media. It is not only the interpersonal level of communication that has been shaped by technological innovations like e-mail, instant messaging or chat (Thimm, 2008); but so have complex societal processes. Whether in politics, economy or business, media traverse the whole society. They are part of the transformation of the public sphere and interwoven within the differentiation of new communication structures and segments. Consequently, media development and societal changes have to be seen as closely connected processes. The concept of mediatization offers an approach to explain the reciprocal impact of media on groups and persons, but it also sheds light on structures and processes within public, political, secular, institutional and private spheres and in daily life (see the contributions in Lundby, 2009). As Krotz (2001; 2007) points out, mediatization is one of the pivotal 'metaprocesses' by which social and cultural changes can be described and explained: 'Today, globalization, individualization, mediatization and the growing importance of the economy, which we here call commercialization, can be seen as the relevant metaprocesses that influence democracy and",
+    "pdf_parse": {
+        "paper_id": "10",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "In today's social environments, many activities implying the construction of cultural and social meaning are intrinsically tied to media. It is not only the interpersonal level of communication that has been shaped by technological innovations like e-mail, instant messaging or chat (Thimm, 2008); but so have complex societal processes. Whether in politics, economy or business, media traverse the whole society. They are part of the transformation of the public sphere and interwoven within the differentiation of new communication structures and segments. Consequently, media development and societal changes have to be seen as closely connected processes. The concept of mediatization offers an approach to explain the reciprocal impact of media on groups and persons, but it also sheds light on structures and processes within public, political, secular, institutional and private spheres and in daily life (see the contributions in Lundby, 2009). As Krotz (2001; 2007) points out, mediatization is one of the pivotal 'metaprocesses' by which social and cultural changes can be described and explained: 'Today, globalization, individualization, mediatization and the growing importance of the economy, which we here call commercialization, can be seen as the relevant metaprocesses that influence democracy and",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "society, culture, politics and other conditions of life over the longer term' (Krotz, 2007, p. 257 ).",
+                "cite_spans": [
+                    {
+                        "start": 78,
+                        "end": 98,
+                        "text": "(Krotz, 2007, p. 257",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "This focus on processes over time is one of the main characteristics of the concept of mediatization (Lundby, 2009) . Drawing on this processual approach, Str\u00f6mb\u00e4ck (2008) , for example, develops 'phase models of mediatization' in which he conceptualizes 'mediatization' as multidimensional and inherently process-oriented. The perspective on mediatization as an ongoing development, which can be characterized by specific phases, grasps the dynamics of the overall process, but does not account sufficiently for the specific dynamics in certain arenas of mediatization. In this article we want to argue that some sectors, environments or contexts (arenas) undergo specific processes of mediatization in respect of categories like intensity, time and societal impact, to name but a few. Certain arenas can be more or less dynamically mediatized than others. Politics, for example, cannot be thought of beyond media any more. As shown by the dynamics of several election campaigns worldwide, for instance, the Obama campaign (Thimm, 2012) , as well as the recent revolutionary movements in North Africa and the Middle East, new media especially have become a crucial part of global political developments. Political information and public opinions evolve from various media and are influenced by the corresponding media features.",
+                "cite_spans": [
+                    {
+                        "start": 101,
+                        "end": 115,
+                        "text": "(Lundby, 2009)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 155,
+                        "end": 171,
+                        "text": "Str\u00f6mb\u00e4ck (2008)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 1024,
+                        "end": 1037,
+                        "text": "(Thimm, 2012)",
+                        "ref_id": "BIBREF35"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "However, it is no longer the mass media or politics that exclusively shape public opinion. Due to the ubiquitous availability of various media technologies, individuals are able to contribute to the public news agenda, for example, through eyewitness reporting or online collaboration.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Thus, the political arena can be regarded as one mediatized world (Lebenswelt) with a growing variety of actors as well as media channels, both of which are subject to mutual influence.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Apart from the contextual determinations of the mediatization process, it still remains open how exactly the media logic of certain applications, like, for example, Twitter, corresponds to their role, value and function within the mediatization process as a whole. This is to say that technology has to be regarded as a key issue for the mediatization process. As Miller (in this volume) rightly observes, much theorizing has failed to consider technology, so that there is 'an awkward gap in mediatization theory, made worse by limited treatments of technology that are ambivalent and even contradictory'.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Between radical perspectives of technological determinism and technological symptomism, Hepp (2012) put forward his concept of the media as 'moulding forces', describing media usage and development and social and cultural change as mutually shaping processes for social dynamics in mediatized worlds. One of these moulding forces is the technological frame in which communicative actions manifest. The technological frames are enablers and disablers at the same time -they offer, or even create, new ways of communication and interaction with the help of technology, but they restrict options at the same time by setting limiting regulations of usage. These regulations have been discussed more recently under the heading of the 'power of algorithms' (Dang-Anh, Einsp\u00e4nner and Thimm, in press; Pariser, 2011) .",
+                "cite_spans": [
+                    {
+                        "start": 88,
+                        "end": 99,
+                        "text": "Hepp (2012)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 777,
+                        "end": 793,
+                        "text": "Thimm, in press;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 794,
+                        "end": 808,
+                        "text": "Pariser, 2011)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "When focusing on the political arena, we want to demonstrate that, due to the rapid changes in internet technologies, the mediatization of politics has gained new momentum. We start with an outline of the internet's potential as a deliberative medium at the interface of edemocracy and participation. By drawing on empirical data from the microblogging system Twitter, it will then be shown how Twitter can be seen as highly relevant for political exchange and public discourse.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "There is widespread agreement that one of the most viable forces behind the mediatization of society is the internet (see the contribution by Hjarvard in this volume). Marked by characteristics like ubiquity, produsage (Bruns, 2008) , multimediality and, more recently, portability (Chayko, 2008) , the internet has gained increasing influence on mediatization processes. In personal routines like online shopping, information seeking, social networking or gaming, online technologies pick up on many human needs and interests by offering online options. But not only are private habits influenced by online cultures; the public sphere is undergoing changes as well. Most notably, citizens all over the world have been taking their protests to the internet. Most prominently during the so-called Arab Spring in 2011 (Tufekci and Wilson, 2012) , but also during a political scandal in Italy (Vicari, 2012) and in a local conflict about a traffic project in Germany (Thimm and B\u00fcrger, 2012) , citizens have used online media to voice their protest. Even in China, online activities on Sina Weibo, the Chinese equivalent to Twitter, have started to gain watchdog functions (Hassid, 2012) .",
+                "cite_spans": [
+                    {
+                        "start": 219,
+                        "end": 232,
+                        "text": "(Bruns, 2008)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 282,
+                        "end": 296,
+                        "text": "(Chayko, 2008)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 816,
+                        "end": 842,
+                        "text": "(Tufekci and Wilson, 2012)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 890,
+                        "end": 904,
+                        "text": "(Vicari, 2012)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 964,
+                        "end": 988,
+                        "text": "(Thimm and B\u00fcrger, 2012)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1170,
+                        "end": 1184,
+                        "text": "(Hassid, 2012)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The mediatization of politics, the internet and online deliberation",
+                "sec_num": "2."
+            },
+            {
+                "text": "The discussion about the potential of the internet as a tool for networking and democratic discourse is not a new one. Given the ever-increasing pace of political decisionmaking and the globalized forces of control that seem to dictate much of life around the world, many citizens, whether politically active or not, have a feeling of being alienated from decisions that affect their lives. In these circumstances, the internet in particular has seemed to many a potential antidote. Consequently, the internet raised high hopes as a two-way, manyto-many medium with the potential to open communication to almost everyone in a medium that is not centrally controlled and that is flexible enough to facilitate citizen action (Delli Carpini, Cook and Jacobs, 2004) . The increasing socio-communicative functionalities, particularly of social networks like Facebook, Twitter or YouTube, have also spawned new forms of mediatized political communication. As Bohman (2004) were actually developed to meet the desire for interpersonal contact (Baym, 2010; Rheingold, 2000) .",
+                "cite_spans": [
+                    {
+                        "start": 723,
+                        "end": 761,
+                        "text": "(Delli Carpini, Cook and Jacobs, 2004)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 953,
+                        "end": 966,
+                        "text": "Bohman (2004)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1036,
+                        "end": 1048,
+                        "text": "(Baym, 2010;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1049,
+                        "end": 1065,
+                        "text": "Rheingold, 2000)",
+                        "ref_id": "BIBREF29"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The mediatization of politics, the internet and online deliberation",
+                "sec_num": "2."
+            },
+            {
+                "text": "However, less optimistic perspectives highlight possible downsides of political communication on the internet, such as the fragmentation or polarization of society (Sunstein, 2001 ) and the digital divide (Norris, 2001) , and thus cast doubt on the internet's deliberative potential (Shapiro, 1999) or even see it as a 'net delusion' (Morozov, 2011) . As mentioned, the internet was accompanied with high hopes by politicians and scholars for strengthening processes of 'deliberative democracy' in a Habermasian sense (Habermas, 1989) .",
+                "cite_spans": [
+                    {
+                        "start": 164,
+                        "end": 179,
+                        "text": "(Sunstein, 2001",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 205,
+                        "end": 219,
+                        "text": "(Norris, 2001)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 283,
+                        "end": 298,
+                        "text": "(Shapiro, 1999)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 334,
+                        "end": 349,
+                        "text": "(Morozov, 2011)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 518,
+                        "end": 534,
+                        "text": "(Habermas, 1989)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The mediatization of politics, the internet and online deliberation",
+                "sec_num": "2."
+            },
+            {
+                "text": "Correspondingly, this optimistic perspective on the internet as being a more democratic and egalitarian medium gave rise to the concept of 'online deliberation' (Thimm, Einsp\u00e4nner and Dang-Anh, 2012a), which has a close link to ideas of 'e-democracy': E-democracy may be the 21st century's most seductive idea. Imagine technology and democracy uniting to overcome distance and time, bringing participation, deliberation, and choice to citizens at the time and place of their choosing. Goodbye, then, to 'attack ads' and single-issue politics -and to dimpled chads. E-democracy will return the political agenda to citizens. Or so the dream goes. (Culver, 2003) For designers, scholars and practitioners, the term 'online deliberation' holds many different meanings. Words or phrases like 'consensus', 'participation', 'access to information', 'voting', 'project management', 'learning' and 'collaboration' inflect the vocabularies used by those developing, assessing or disseminating digital technologies that facilitate deliberation (Davies, 2009) . For many, talk of online deliberation is synonymous with talk of changing or improving democracy and seeing it work via digital media. For others, online deliberation is concentrated on certain tools, which enable participation online (like Fishkin's online polling tolls; see Fishkin, 1991; .",
+                "cite_spans": [
+                    {
+                        "start": 161,
+                        "end": 183,
+                        "text": "(Thimm, Einsp\u00e4nner and",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 645,
+                        "end": 659,
+                        "text": "(Culver, 2003)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 1033,
+                        "end": 1047,
+                        "text": "(Davies, 2009)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 1327,
+                        "end": 1341,
+                        "text": "Fishkin, 1991;",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The mediatization of politics, the internet and online deliberation",
+                "sec_num": "2."
+            },
+            {
+                "text": "Habermasian notion of the public sphere (Habermas, 1989) . It has been a subject of constant debate, interpretation and reinterpretation. One of the outcomes of such re-evaluation is a belief that the public sphere can and should be a venue for the renewal of public discourses.",
+                "cite_spans": [
+                    {
+                        "start": 40,
+                        "end": 56,
+                        "text": "(Habermas, 1989)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Deliberatively perceived political communication is inseparably linked to the",
+                "sec_num": null
+            },
+            {
+                "text": "Public discourse is thereby at the very core of deliberative democracy as a new social order constructed from below, as opposed to the dominant traditional system of political communication constructed from above (Coleman and Blumler, 2009) . Habermas' (critical) theories of communicative action, discourse ethics, pragmatic meaning and truth constitute the theoretic and philosophical bedrock for deliberative democracy (Habermas, 1984; 1987) .",
+                "cite_spans": [
+                    {
+                        "start": 213,
+                        "end": 240,
+                        "text": "(Coleman and Blumler, 2009)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 243,
+                        "end": 263,
+                        "text": "Habermas' (critical)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 422,
+                        "end": 438,
+                        "text": "(Habermas, 1984;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 439,
+                        "end": 444,
+                        "text": "1987)",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Deliberatively perceived political communication is inseparably linked to the",
+                "sec_num": null
+            },
+            {
+                "text": "Its aim is to reconsider the role of argumentation, rationality and reasoning by rejecting their metaphysical self-sufficiency, and to make them instead dependent on the unique context of communication practices, including their actors, objectives, rules, and so on.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Deliberatively perceived political communication is inseparably linked to the",
+                "sec_num": null
+            },
+            {
+                "text": "The conceptualization of the virtual character of the public sphere follows the Habermasian tradition of deliberating socio-political communities of equal citizens engaging in public discourse. Digital media can be a new hosting platform, where discursively interactive properties can be constructed and strengthened in order to raise the level of democratic participation. Dahlgren (2005) stresses, for example, that 'the theme of internet and the public sphere now has a permanent place on research agendas and in intellectual inquiry for the foreseeable future' in both the media and political communication research, leading eventually to 'convergences between mass and interactive media' (p. 41). Public deliberation online emerges in the new social context of everyday life, but is independent of the existing social settings and conventions. By going online, civic interaction and deliberation expand and pluralize the existing systems of political communication, allowing the expression of socio-political concerns to everyone, not only to political elites.",
+                "cite_spans": [
+                    {
+                        "start": 374,
+                        "end": 389,
+                        "text": "Dahlgren (2005)",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Deliberatively perceived political communication is inseparably linked to the",
+                "sec_num": null
+            },
+            {
+                "text": "But, as we argue elsewhere (Thimm, Einsp\u00e4nner and Dang-Anh, 2012a) , there can be no one-to-one adoption of Habermas' ideals to the specific setting of digitally mediatized worlds. Particularly in the open and unstructured digital world of politics, as one example of a mediatized world, the Habermasian ideal might never be achieved: 'There will always be some constraints limiting the full and equal participation of all citizens' (Steiner, B\u00e4chtiger, Sp\u00f6rndli and Steenbergen, 2004, p. 19) . As Delli Carpini, Cook and Jacobs (2004, p. 318) show, most analyses on political participation exclude the discursive perspective and only count activities like voting, signing petitions, lobbying, and so on as political participation.",
+                "cite_spans": [
+                    {
+                        "start": 27,
+                        "end": 66,
+                        "text": "(Thimm, Einsp\u00e4nner and Dang-Anh, 2012a)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 433,
+                        "end": 492,
+                        "text": "(Steiner, B\u00e4chtiger, Sp\u00f6rndli and Steenbergen, 2004, p. 19)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 513,
+                        "end": 543,
+                        "text": "Cook and Jacobs (2004, p. 318)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Deliberatively perceived political communication is inseparably linked to the",
+                "sec_num": null
+            },
+            {
+                "text": "'But talking in public is a form of participation, one that arguably provides the opportunity for individuals to develop and express their views, learn the positions of others, identify shared concerns and preferences, and come to understand and reach judgement about matters of political concern' (Delli Carpini, Cook and Jacobs, 2004, p. 319) .",
+                "cite_spans": [
+                    {
+                        "start": 314,
+                        "end": 344,
+                        "text": "Cook and Jacobs, 2004, p. 319)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Deliberatively perceived political communication is inseparably linked to the",
+                "sec_num": null
+            },
+            {
+                "text": "Reflecting on the idealized ethical principles of a deliberative discourse, Steiner, B\u00e4chtiger, Sp\u00f6rndli and Steenbergen (2004) come to the following conclusions:",
+                "cite_spans": [
+                    {
+                        "start": 76,
+                        "end": 127,
+                        "text": "Steiner, B\u00e4chtiger, Sp\u00f6rndli and Steenbergen (2004)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Deliberatively perceived political communication is inseparably linked to the",
+                "sec_num": null
+            },
+            {
+                "text": "No one with the competence to speak and act may be excluded from the discourse. All have the same chances to question and introduce any assertion and to express their attitudes, desires, and needs. No one may be prevented, by internal or external coercion, from expressing these rights; all have the right to question the assigned topic of conversation; and all have the right to initiate reflexive arguments about the very rules of the discourse procedures and the way in which they are applied and carried out. (Steiner, B\u00e4chtiger, Sp\u00f6rndli and Steenbergen, 2004, p. 19) While these rules were initially only applied to institutionalized discursive procedures, such as parliamentary talk (Steiner, B\u00e4chtiger, Sp\u00f6rndli and Steenbergen, 2004) or 'deliberative polls' (Fishkin, 1991) , it is necessary to ask whether an allegedly uncontrolled, informal discourse -like the ones on Twitter -shows indications of deliberation on the structural as well as the communicational dimension. Particularly on Twitter, with its flat communicative structures, we see a limited, yet vast, potential for discursive participation in terms of a fundamental publicness, individuality, general freedom of expressing and selecting sources, and eventually (and ideally) reasoning on political issues.",
+                "cite_spans": [
+                    {
+                        "start": 513,
+                        "end": 572,
+                        "text": "(Steiner, B\u00e4chtiger, Sp\u00f6rndli and Steenbergen, 2004, p. 19)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 690,
+                        "end": 742,
+                        "text": "(Steiner, B\u00e4chtiger, Sp\u00f6rndli and Steenbergen, 2004)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 767,
+                        "end": 782,
+                        "text": "(Fishkin, 1991)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Deliberatively perceived political communication is inseparably linked to the",
+                "sec_num": null
+            },
+            {
+                "text": "Due to its format and technological frame, Twitter can be seen as highly relevant for 'public reasoning around social contention' (Vicari, 2012, p. 291) , and thus as a crucial facet of the mediatization of politics or even a constitution of a mediatized world of politics itself. The 140-character format may be seen as a constraint, but it is actually no limitation at all (Boyd, Golder and Lotan, 2010) : Tweets can be shortened or modified by their distributors and extended by inserted informational links. Because of being so short, Twitter communication is often regarded as being catchy and comprehensible. Additionally, the user is able to substantiate his statement by adding embedded multimodal content (photos, videos and links to other websites), for instance, uploading a picture as evidence of a particular newsworthy situation (Liu, Palen, Sutton, Hughes and Vieweg, 2008) . Inserted hyperlinks to online articles or blogpostings can provide additional background information and help to create a discourse system. This system is based on four operators: @ for addressing or mentioning, # for tagging, http:// for linking and RT for republishing. These operators serve different functions and communicative strategies and can be conceptualized in the 'Functional operator model of Twitter' (see Thimm, Dang-Anh and Einsp\u00e4nner, 2011) .",
+                "cite_spans": [
+                    {
+                        "start": 130,
+                        "end": 152,
+                        "text": "(Vicari, 2012, p. 291)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 375,
+                        "end": 405,
+                        "text": "(Boyd, Golder and Lotan, 2010)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 843,
+                        "end": 888,
+                        "text": "(Liu, Palen, Sutton, Hughes and Vieweg, 2008)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 1311,
+                        "end": 1348,
+                        "text": "Thimm, Dang-Anh and Einsp\u00e4nner, 2011)",
+                        "ref_id": "BIBREF37"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Microblogging functions and strategies: Discursive participation on Twitter",
+                "sec_num": "3."
+            },
+            {
+                "text": "The relationship between the three levels of operator, text and function can be explained as follows: @-replies: By @replying, users can address other users on Twitter directly. Using the @-function as an interactional 'cross-turn coherence' (Honeycutt and Herring, 2009, p. 2) gives users more options to take part in political online discourses (e.g., @-initiated interaction between citizens and politicians). On the functional level, these actions serve the strategies of 'direct and indirect addressing'. By @-mentioning, that is, putting the '@' somewhere else than at the beginning of a tweet, users talk about each other, creating attention and raising awareness of the subject in question in two ways. First, the addressed or mentioned user becomes aware of being addressed or mentioned, resulting in a potential response. Second, users following the initial tweeter also become aware of the addressed user being talked about or to. This opens up conversational potential for multi-level interaction with several participants involved. Furthermore, it constitutes @-interactions as genuinely public.",
+                "cite_spans": [
+                    {
+                        "start": 242,
+                        "end": 277,
+                        "text": "(Honeycutt and Herring, 2009, p. 2)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Microblogging functions and strategies: Discursive participation on Twitter",
+                "sec_num": "3."
+            },
+            {
+                "text": "Hashtags: Hashtags (#-symbol) mark topics in tweets and offer one or more categorizations. By checking on hashtags, the user can sort the tweets and can easily obtain an overview over the ongoing discourse. Conversations can be followed and whole lists of contributing tweets accessed. Discussions about specific topics often emerge around specific hashtags. These might be lexemes ('#election'), abbreviations such as acronyms ('#NRA'), cumulated phrases ('#gunsinamerica') or temporarily utilized occasionalisms, that is, neologisms created for a particular situation, event, issue, topic, person, and so on. The instantaneous constitution and availability of hashtag-discourses characterize them as 'ad-hoc publics' (Bruns and Burgess, 2011) .",
+                "cite_spans": [
+                    {
+                        "start": 719,
+                        "end": 744,
+                        "text": "(Bruns and Burgess, 2011)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Microblogging functions and strategies: Discursive participation on Twitter",
+                "sec_num": "3."
+            },
+            {
+                "text": "Hyperlinks: Hyperlinks extend the limitations of text-based tweets by embedding tweet-external content. Videos from YouTube, photos from Flickr, product links from Amazon, slides from Slideshare, music files from Soundcloud, to name but a few of the most popular examples, can all be embedded in a tweet. Multimodal content can be included in the tweet as a display underneath the related text message (see Figure 15 .1). Especially audiovisual content might also have a narrative and storytelling function if presented sequentially (Thimm, Dang-Anh and Einsp\u00e4nner, 2011, p. 278) , as well as cogency of proof (Liu, Palen, Sutton, Hughes and Vieweg, 2008) . The depicted example demonstrates the narrative potential of twitpics, by embedding a whole series of photos (Figure 15 .2):",
+                "cite_spans": [
+                    {
+                        "start": 533,
+                        "end": 579,
+                        "text": "(Thimm, Dang-Anh and Einsp\u00e4nner, 2011, p. 278)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 610,
+                        "end": 655,
+                        "text": "(Liu, Palen, Sutton, Hughes and Vieweg, 2008)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 407,
+                        "end": 416,
+                        "text": "Figure 15",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 767,
+                        "end": 777,
+                        "text": "(Figure 15",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Microblogging functions and strategies: Discursive participation on Twitter",
+                "sec_num": "3."
+            },
+            {
+                "text": "The inserted photos (twitpics 1 to 4) document the overnight construction of parts of a violently contested construction project in Germany, thereby telling the demonstrators about the breach of political promise by the city government not to continue the construction process.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Microblogging functions and strategies: Discursive participation on Twitter",
+                "sec_num": "3."
+            },
+            {
+                "text": "Retweets: The fourth communicative strategy, which offers options for participation in Twitter discourses, is retweeting (RT). With this function the user can resend another user's tweet by clicking the retweet-button. The RT-function is a quick opportunity for sharing and distributing messages and reaches many people at the same time. The RT-operator signifies a fast diffusion of information.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Microblogging functions and strategies: Discursive participation on Twitter",
+                "sec_num": "3."
+            },
+            {
+                "text": "Altogether, the operator model offers an approach to allocating strategic value to Twitter activities and putting them into a conversational context.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Microblogging functions and strategies: Discursive participation on Twitter",
+                "sec_num": "3."
+            },
+            {
+                "text": "Applying the ideal discourse principles to the microblogging system Twitter, specific options but also limitations become evident. Following Steiner, B\u00e4chtiger, Sp\u00f6rndli and Steenbergen 2004, we want to focus on five dimensions of discourse: access, contribution, exclusion, topical assignments and discourse procedures.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Political discourse and deliberation on Twitter",
+                "sec_num": "4."
+            },
+            {
+                "text": "Access. Twitter can be regarded as a forum, allowing everyone with access to the internet and an e-mail address to sign up and join. However, not everyone has access to the internet, be it for financial or infrastructural reasons. Additionally, mediated discourse demands a certain level of technical competence as well as knowledge of medium-specific conventions and functionalities.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Political discourse and deliberation on Twitter",
+                "sec_num": "4."
+            },
+            {
+                "text": "Contribution. Basically, there are no restrictions on the content of tweets. However, expressing voice is not the same as being heard. Depending on various factors, such as the number of followers, the user's reputation offline and online, the number of retweets, the retweeter's reputation, and so on, there is a high variation in getting attention and thus being heard in the Twittersphere.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Political discourse and deliberation on Twitter",
+                "sec_num": "4."
+            },
+            {
+                "text": "Twitter. There have been cases, though, of Twitter closing down accounts that either violated their terms of service (e.g., for impersonation, hate speech) or were accidentally accused of such violations (Masters, 2012) .",
+                "cite_spans": [
+                    {
+                        "start": 204,
+                        "end": 219,
+                        "text": "(Masters, 2012)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Exclusion. As stated above, in general, no one is prevented from signing up on",
+                "sec_num": null
+            },
+            {
+                "text": "Topical assignments. In general, any contribution is allowed, except for hate speech or violations of national rights. There are no institutionally assigned topics on Twitter. However, Twitter displays frequently used hashtags, lexical items and phrases as 'trending topics'. Topic frequency: Depending on topic engagement, intensity and time (frequency over time), certain discourse topics can be regarded as more (or less) influential. Here, agendasetting functions of Twitter also come into play (Thimm, Einsp\u00e4nner and Dang-Anh, 2012b ).",
+                "cite_spans": [
+                    {
+                        "start": 499,
+                        "end": 537,
+                        "text": "(Thimm, Einsp\u00e4nner and Dang-Anh, 2012b",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Exclusion. As stated above, in general, no one is prevented from signing up on",
+                "sec_num": null
+            },
+            {
+                "text": "Discursive participation on the individual level: From the perspective of deliberation, it is necessary to identify and analyse concrete interactive activities as 'communicative actions' (Habermas, 1984) . Here, two perspectives can be taken: That Twitter can be a platform for local protests and demonstrations is underlined by the high usage frequency of the hashtag #s21 over the whole pre-election period (Table 15. 2).",
+                "cite_spans": [
+                    {
+                        "start": 187,
+                        "end": 203,
+                        "text": "(Habermas, 1984)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 409,
+                        "end": 419,
+                        "text": "(Table 15.",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "(b)",
+                "sec_num": null
+            },
+            {
+                "text": "the",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "(b)",
+                "sec_num": null
+            },
+            {
+                "text": "Interestingly, this project received nationwide attention, although it is a strictly local traffic project (construction of a train station). Due to the extensive media coverage and the activities on various social media channels, it became a symbol for citizens' protest against political ignorance. On Twitter, #s21 was used not only by people to virtually support the protesters in the streets, but also by protesters themselves to organize and coordinate activities on the ground. <list> (b) Discursive participation on the individual level: For this category, selected politicians from one state were chosen for an analysis on their interactive strategies. Twitter offers a low threshold for direct exchanges between the political establishment and the general public, so that interactions between politicians and the public should yield some typical patterns of distinct exchanges. Based on our functional operator model, types and styles of tweets of the most active politicians per party were assessed (Table 15 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 1010,
+                        "end": 1019,
+                        "text": "(Table 15",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "(b)",
+                "sec_num": null
+            },
+            {
+                "text": "The quantitative analysis of the tweets, that is, the frequency count of the occurring signifiers @, RT, # and http//:, reveals two main tweeting styles, both of which are performed by politicians (Thimm, Einsp\u00e4nner and Dang-Anh, 2012b) .",
+                "cite_spans": [
+                    {
+                        "start": 197,
+                        "end": 236,
+                        "text": "(Thimm, Einsp\u00e4nner and Dang-Anh, 2012b)",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3).</list>",
+                "sec_num": null
+            },
+            {
+                "text": "When putting these results together, the following results are obtained (Table 15 .4):",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 72,
+                        "end": 81,
+                        "text": "(Table 15",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "3).</list>",
+                "sec_num": null
+            },
+            {
+                "text": "The 'personal-interactive' style is characterized by a high frequency of @replies and RTs and only a small number of hyperlinks. This tweeting style focuses on the networking aspect of the Twitter communication. The other tweeting style can be classified as 'functional-informative', with a high number of hyperlinks and a rather small number of @replies or RTs. The characterization of this tweeting style is mainly to inform the followers, not so much to engage in dialogue. Overall, the strategies of each politician differ in level of interaction and responsiveness. Whereas some politicians used Twitter in a dialogical manner, others did not participate directly, but, rather, went ahead with their personal agenda ('presentational type').",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3).</list>",
+                "sec_num": null
+            },
+            {
+                "text": "As can be seen in Table 15 .4, most politicians do not engage with the public directly.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 18,
+                        "end": 26,
+                        "text": "Table 15",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "3).</list>",
+                "sec_num": null
+            },
+            {
+                "text": "In particular, Stefan Mappus, at the time head of the state government in Baden-Wuerttemberg, shows a specific Twitter style: he does not use a single interactive or personal element, whether @-operators or retweets, but employs hyperlinks and hashtags only. His strategy can be characterized as strictly informational and non-discursive.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3).</list>",
+                "sec_num": null
+            },
+            {
+                "text": "The findings show that politicians were not actively seeking contact and personal interactions with their voters. At least for these (early) years of Twitter in Germany, online deliberation on the level of the politically responsible personnel and the public is rare -the politicians mainly refer to related topics by using hashtags and links. Only a minority address citizens directly or respond to their comments and questions. (2) User1 (male): How many arguments does @Volker_Beck need to understand that inequality isn't discrimination? 7User1: @User2 @User3 @Volker_Beck I'll revise my interpretation of the Basic Law only after you're born in a cabbage patch and raised by a cuckoo (8) Volker_Beck: @User1 I'll leave this circular discussion. Thanks! @User2 @User3</list> A wide range of communicative functions described above can be found in this interaction between Volker Beck, the gay politician, and a user. In this example, a politician expresses himself and responds to a citizen's inquiry and critical comment made possible by the @operator.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3).</list>",
+                "sec_num": null
+            },
+            {
+                "text": "While the interactional sequence starts with Beck's comment on Angela Merkel and the government, several users join (as user 1 has the most tweets in this sequence, other posts are not included). Beck's first tweet (1) is a general comment on a contemporary topic he is concerned with. As user1 steps into the conversation (2), he @-mentions Beck and thus creates attention for his comment. As Beck answers (3), user1's @-mention in (2) becomes a 'post facto initiation' (Honeycutt and Herring, 2009, p. 6) for the subsequent conversation.",
+                "cite_spans": [
+                    {
+                        "start": 471,
+                        "end": 506,
+                        "text": "(Honeycutt and Herring, 2009, p. 6)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3).</list>",
+                "sec_num": null
+            },
+            {
+                "text": "Beck refers to the cited law text via a hyperlink (3) in order to substantiate his argument. The hyperlink leads to a website containing a collection of legal texts. User1 retorts with a reference to another article from the Basic Law of Germany (4). By adding the hashtag '#demography' to his tweet he implicitly refers to the demographic aspect of gay marriage.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3).</list>",
+                "sec_num": null
+            },
+            {
+                "text": "With this complex contextualization he deliberately condenses his argument into one hashtag.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3).</list>",
+                "sec_num": null
+            },
+            {
+                "text": "However, his argument is countered by Beck (5), who refers to the interpretation by the Parliamentarian Council, the founding institution of the German constitution after World War II. The discussion leads further participants to join the conversation. As user1's counterargument remains unanswered, his multiply addressed argumentation turns non-rational (7).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3).</list>",
+                "sec_num": null
+            },
+            {
+                "text": "The politician decides to stop the discussion and informs the participants about it (8) by addressing all of them.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3).</list>",
+                "sec_num": null
+            },
+            {
+                "text": "As shown in this short excerpt, Twitter can be used not only to inform the public and diffuse information, but also to engage actively in online debate. In this case, no solution was reached, but the chance of direct discussion with an MP in a virtual environment can be regarded as a distinctly new option for many voters.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3).</list>",
+                "sec_num": null
+            },
+            {
+                "text": "A diverse set of constellations, types and strategies of political discourse emerge in the public sphere of microblogs. The technical and communicational structure of Twitter enables political discourse between all interested parties, but can also serve as a purely informational tool. By empowering the users all over the world to document, observe, comment or criticize, this social network has the potential to influence political discourse, as was shown by the above examples from the field. Twitter can already be regarded as an establishment within the mediatized world of politics. In a manner of discursive participation, users can share political news and opinions, organize political support or demand more participation from their governments. On the other hand, politicians themselves can address criticism personally and enter public discussion with other users. The global trend towards mobile phones additionally opens up local incidents to the world, as mobile online access enables citizens to immediately report news to the global public (Thimm and B\u00fcrger, 2012) . Consequently, the dynamics of Twitter usage can be regarded as a pacemaker for the mediatization of politics.",
+                "cite_spans": [
+                    {
+                        "start": 1056,
+                        "end": 1080,
+                        "text": "(Thimm and B\u00fcrger, 2012)",
+                        "ref_id": "BIBREF36"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary and outlook",
+                "sec_num": "5."
+            },
+            {
+                "text": "The mediatization of politics is not only one of the most visible and dynamic forms of mediatization, but also a very influential one. By changing forms, strategies and structures of access, ubiquity and transparency, this mediatization process is likely to influence political decision-making itself. This is not to say that the deals of the Habermasian concept of 'deliberational democracy' automatically become reality in the online environments. Online deliberation has lots of pitfalls, as was shown for the case of Twitter. So far the microblogging platform is mainly being conceptualized as a 'social news diffusion' medium.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary and outlook",
+                "sec_num": "5."
+            },
+            {
+                "text": "But, through the course of media development, it can not only help to organize one's private or -in the case of electoral candidates -political life, but also enable citizens to keep track of the political events, share, document and discursively reason on them and thereby influence politics by participating in political discourse online. ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary and outlook",
+                "sec_num": "5."
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Personal connections in the digital age",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Baym",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Baym, N. (2010) Personal connections in the digital age (Chichester: Polity Press).",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Expanding dialogue: The internet, public sphere, and transnational democracy",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Bohman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Democracy online",
+                "volume": "",
+                "issue": "",
+                "pages": "47--61",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bohman, J. (2004) 'Expanding dialogue: The internet, public sphere, and transnational democracy'. In: Shane, P. M. (ed.) Democracy online (New York: Routledge), pp. 47- 61.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Tweet tweet retweet: Conversational aspects of retweeting on Twitter. Proceedings of HICSS-43",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Boyd",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Golder",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Lotan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "5--8",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Boyd, D., Golder, S. and Lotan, G. (2010) Tweet tweet retweet: Conversational aspects of retweeting on Twitter. Proceedings of HICSS-43. Kauai, HI, 5-8 January.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Blogs, wikipedia, second life, and beyond: From production to produsage (Digital Formations",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Bruns",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bruns, A. (2008) Blogs, wikipedia, second life, and beyond: From production to produsage (Digital Formations) (New York: Peter Lang).",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "The use of Twitter hashtags in the formation of ad hoc publics",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Bruns",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Burgess",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "25--27",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bruns, A. and Burgess, J. (2011) The use of Twitter hashtags in the formation of ad hoc publics, 25-27 August 2011, http://eprints.qut.edu.au/46515/ (date accessed 29 August 2011).",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Portable communities. The social dynamics of online and mobile connectedness",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Chayko",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chayko, M. (2008) Portable communities. The social dynamics of online and mobile connectedness (New York: SUNY Press).",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "The internet and democratic citizenship: Theory, practice and policy",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Coleman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Blumler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Coleman, S. and Blumler, J. G. (2009) The internet and democratic citizenship: Theory, practice and policy (Cambridge: University Press).",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "The future of e-democracy -lessons from Canada",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Culver",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "OpenDemocracy.net",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Culver, K. (2003) 'The future of e-democracy -lessons from Canada'. In: OpenDemocracy.net, http://www.opendemocracy.net/null- edemocracy/article_1586.jsp (date accessed 23 December 2012).",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "The internet, public spheres, and political communication: Dispersion and deliberation",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Dahlgren",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "22",
+                "issue": "",
+                "pages": "147--62",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dahlgren, P. (2005) 'The internet, public spheres, and political communication: Dispersion and deliberation'. In: Political Communication, 22(2), pp. 147-62.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Die Macht der Algorithmen -Selektive Distribution in Twitter",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Dang-Anh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Einsp\u00e4nner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Thimm",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dang-Anh, M., Einsp\u00e4nner, J. and Thimm, C. (2013) 'Die Macht der Algorithmen -Selektive Distribution in Twitter'. In: Emmer, M., Filipovi\u0107, A., Schmidt, J. and Stapf, I. (eds.)",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Authentizit\u00e4t in der Online-Kommunikation",
+                "authors": [
+                    {
+                        "first": "Wahrheit",
+                        "middle": [],
+                        "last": "Echtheit",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Ehrlichkeit",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Juventa)",
+                "volume": "",
+                "issue": "",
+                "pages": "74--87",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Echtheit, Wahrheit, Ehrlichkeit. Authentizit\u00e4t in der Online-Kommunikation (Weinheim, Basel: Juventa), pp. 74-87.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "The blossoming field of online deliberation",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Davies",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Online deliberation: Design, research, and practice",
+                "volume": "",
+                "issue": "",
+                "pages": "1--19",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Davies, T. (2009) 'The blossoming field of online deliberation'. In: Davies, T. and Gangadharan, S. P. (eds.) Online deliberation: Design, research, and practice (Stanford: CSLI Publications), pp. 1-19.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Public deliberation, discursive participation, and citizen engagement: A review of the empirical literature",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "X"
+                        ],
+                        "last": "Delli Carpini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Cook",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Jacobs",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Annual Review of Political Science",
+                "volume": "7",
+                "issue": "",
+                "pages": "315--359",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Delli Carpini, M. X., Cook, F. L. and Jacobs, L. R. (2004) 'Public deliberation, discursive participation, and citizen engagement: A review of the empirical literature'. In: Annual Review of Political Science, 7, pp. 315-44.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Democracy and deliberation: New directions for democratic reform",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Fishkin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fishkin, J. S. (1991) Democracy and deliberation: New directions for democratic reform (New Haven, London: Yale University Press).",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Virtual public consultation: Prospects for internet deliberative democracy",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Fishkin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Online deliberation: Design, research, and practice",
+                "volume": "",
+                "issue": "",
+                "pages": "23--36",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fishkin, J. S. (2009) 'Virtual public consultation: Prospects for internet deliberative democracy'. In: Davies, T. and Gangadharan, S. P. (eds.) Online deliberation: Design, research, and practice (Stanford: CSLI Publications), pp. 23-36.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "The theory of communicative action",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Habermas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Reason and the rationalization of society, trans. McCarthy, T",
+                "volume": "1",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Habermas, J. (1984) The theory of communicative action. Vol. 1: Reason and the rationalization of society, trans. McCarthy, T. (Boston: Beacon).",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "The theory of communicative action",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Habermas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Lifeworld and system: A critique of functionalist reason, trans. McCarthy, T",
+                "volume": "2",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Habermas, J. (1987) The theory of communicative action. Vol. 2: Lifeworld and system: A critique of functionalist reason, trans. McCarthy, T. (Cambridge: Polity Press).",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "The structural transformation of the public sphere. An inquiry into a category of bourgeois society",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Habermas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Habermas, J. (1989) The structural transformation of the public sphere. An inquiry into a category of bourgeois society (Cambridge: Polity Press).",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Safety valve or pressure cooker? Blogs in Chinese political life",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hassid",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Journal of Communication",
+                "volume": "62",
+                "issue": "2",
+                "pages": "212--242",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hassid, J. (2012) 'Safety valve or pressure cooker? Blogs in Chinese political life'. In: Journal of Communication, 62(2), pp. 212-30.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Cultures of mediatization",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Hepp",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hepp, A. (2012) Cultures of mediatization (Cambridge: Polity Press).",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Beyond microblogging: Conversation and collaboration via Twitter",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Honeycutt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Herring",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Proceedings of the Forty-Second Hawaii International Conference on System Sciences",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Honeycutt, C. and Herring, S. C. (2009) 'Beyond microblogging: Conversation and collaboration via Twitter'. In: Proceedings of the Forty-Second Hawaii International Conference on System Sciences (Los Alamitos, CA: IEEE Press).",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Die Mediatisierung des kommunikativen Handelns. Der Wandel von Alltag und sozialen Beziehungen, Kultur und Gesellschaft durch die Medien",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Krotz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Krotz, F. (2001) Die Mediatisierung des kommunikativen Handelns. Der Wandel von Alltag und sozialen Beziehungen, Kultur und Gesellschaft durch die Medien (Opladen: Westdeutscher Verlag).",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "The meta-process of \"mediatization\" as a conceptual frame",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Krotz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Global Media and Communication",
+                "volume": "3",
+                "issue": "",
+                "pages": "256--60",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Krotz, F. (2007) 'The meta-process of \"mediatization\" as a conceptual frame'. In: Global Media and Communication, 3, pp. 256-60.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "In search of the bigger picture: The emergent role of on-line photo sharing in times of disaster",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Liu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Palen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Sutton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Hughes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Vieweg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Proceedings of the 5th International ISCRAM Conference",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Liu, S. B., Palen, L., Sutton, J., Hughes, A. L. and Vieweg, S. (2008) 'In search of the bigger picture: The emergent role of on-line photo sharing in times of disaster'. In: Fiedrich, F. and van de Walle, B. (eds.) Proceedings of the 5th International ISCRAM Conference, http://works.bepress.com/vieweg/11/.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Mediatization: Concept, changes, consequences",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Lundby",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lundby, K. (ed.) (2009) Mediatization: Concept, changes, consequences (New York: Lang).",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "#NBCFail: Backlash as Twitter locks out reporter Guy Adams",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Masters",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "The Independent",
+                "volume": "31",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Masters, S. (2012) '#NBCFail: Backlash as Twitter locks out reporter Guy Adams'. In: The Independent, 31 July, http://www.independent.co.uk/news/world/americas/nbcfail- backlash-as-twitter-locks-out-reporter-guy-adams-7987906.html.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "The net delusion. The dark side of internet freedom",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Morozov",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Morozov, E. (2011) The net delusion. The dark side of internet freedom (New York: Public Affairs).",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Digital divide: Civic engagement, information poverty, and the internet worldwide",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Norris",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Norris, P. (2001) Digital divide: Civic engagement, information poverty, and the internet worldwide (Cambridge: University Press).",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "The filter bubble. What the internet is hiding from you",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Pariser",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pariser, E. (2011) The filter bubble. What the internet is hiding from you (New York: Penguin Press).",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "The virtual community: Homesteading on the electronic frontier",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Rheingold",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rheingold, H. (2000) The virtual community: Homesteading on the electronic frontier (Cambridge, MA: MIT Press).",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Enough of deliberation: Politics is about interests and power",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Shapiro",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Deliberative politics: Essays on democracy and disagreement",
+                "volume": "",
+                "issue": "",
+                "pages": "28--38",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shapiro, I. (1999) 'Enough of deliberation: Politics is about interests and power'. In: Macedo, S. (ed.) Deliberative politics: Essays on democracy and disagreement (New York: Oxford University Press), pp. 28-38.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Deliberative politics in action: Analyzing parliamentary discourse",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Steiner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "B\u00e4chtiger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Sp\u00f6rndli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Steenbergen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Steiner, J., B\u00e4chtiger, A., Sp\u00f6rndli, M. and Steenbergen, M. R. (2004) Deliberative politics in action: Analyzing parliamentary discourse (Cambridge: University Press).",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Four phases of mediatization: An analysis of the mediatization of politics",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Str\u00f6mb\u00e4ck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "International Journal of Press/Politics",
+                "volume": "13",
+                "issue": "",
+                "pages": "228--274",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Str\u00f6mb\u00e4ck, J. (2008) 'Four phases of mediatization: An analysis of the mediatization of politics'. In: International Journal of Press/Politics 2008, 13, pp. 228-46.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Technically mediated interpersonal communication",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Thimm",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Handbook of interpersonal communication",
+                "volume": "",
+                "issue": "",
+                "pages": "331--54",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Thimm, C. (2008) 'Technically mediated interpersonal communication'. In: Antos, G. and Ventula, E. (eds.) Handbook of interpersonal communication (Berlin: De Gruyter), pp. 331-54.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "The visuals of online politics: Barack Obama's web campaign",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Thimm",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Visual cultures -Transatlantic perspectives (Publications of the Bavarian American Academy, 12)",
+                "volume": "",
+                "issue": "",
+                "pages": "185--203",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Thimm, C. (2012) 'The visuals of online politics: Barack Obama's web campaign'. In: Depkat, V. and Zwingenberg, M. (eds.) Visual cultures -Transatlantic perspectives (Publications of the Bavarian American Academy, 12), pp. 185-203.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Digitale Citoyens -Politische Partizipation in Zeiten von Social Media. Fallanalysen zur politischen Beteiligung in Deutschland, \u00c4gypten und China",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Thimm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "B\u00fcrger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Thimm, C. and B\u00fcrger, T. (2012) Digitale Citoyens -Politische Partizipation in Zeiten von Social Media. Fallanalysen zur politischen Beteiligung in Deutschland, \u00c4gypten und China (Bonn: BAPP).",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Diskurssystem Twitter: Semiotische und handlungstheoretische Perspektiven",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Thimm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Dang-Anh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Einsp\u00e4nner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Thimm, C., Dang-Anh, M. and Einsp\u00e4nner, J. (2011) 'Diskurssystem Twitter: Semiotische und handlungstheoretische Perspektiven'. In: Anastasiadis, M. and Thimm, C. (eds.)",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Social Media -Theorie und Praxis digitaler Sozialit\u00e4t",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "265--86",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Social Media -Theorie und Praxis digitaler Sozialit\u00e4t (Frankfurt a. M.: Peter Lang), pp. 265-86.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Politische Deliberation online -Twitter als Element des politischen Diskurses",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Thimm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Einsp\u00e4nner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Dang-Anh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Thimm, C., Einsp\u00e4nner, J. and Dang-Anh, M. (2012a) 'Politische Deliberation online - Twitter als Element des politischen Diskurses'. In: Hepp, A. and Krotz, F. (eds.)",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Forschungsfelder und Beschreibungsans\u00e4tze",
+                "authors": [
+                    {
+                        "first": "Mediatisierte",
+                        "middle": [],
+                        "last": "Welten",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "95--117",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mediatisierte Welten: Forschungsfelder und Beschreibungsans\u00e4tze (Wiesbaden: Springer VS), pp. 95-117.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Twitter als Wahlkampfmedium",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Thimm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Einsp\u00e4nner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Dang-Anh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "",
+                "volume": "57",
+                "issue": "",
+                "pages": "293--313",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Thimm, C., Einsp\u00e4nner, J. and Dang-Anh, M. (2012b) 'Twitter als Wahlkampfmedium'. In: Publizistik, 57(3), pp. 293-313.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Social media and the decision to participate in political protest: Observations from Tahrir Square",
+                "authors": [
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Tufekci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Wilson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Journal of Communication",
+                "volume": "62",
+                "issue": "2",
+                "pages": "363--79",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tufekci, Z. and Wilson, C. (2012) 'Social media and the decision to participate in political protest: Observations from Tahrir Square'. In: Journal of Communication, 62(2), pp. 363-79.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Twitter and public reasoning around social contention: The case of #15ott in Italy",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Vicari",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Conference Proceedings",
+                "volume": "",
+                "issue": "",
+                "pages": "277--92",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vicari, S. (2012) 'Twitter and public reasoning around social contention: The case of #15ott in Italy'. In: Tejerina, B. and Perugorria, I. (eds.) From social to political: New forms of mobilization and democratization, Conference Proceedings (Servicio Editorial de la Universidad del Pais Vasco, Bilbao), pp. 277-92.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "points out, 'new technologies are often greeted with political optimism' (p. 131). The new ways of citizens' online participation and political protest mirror the dynamics of the contemporary mediatization of the political sphere. The new vigour of participation can be regarded as one of the major developments in user empowerment, as digital networks and communications",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF1": {
+                "text": "These topics are algorithmically promoted. Users cannot alter these automated topical assignments. Discourse procedures. From a deliberative point of view, there are no elaborated discourse procedures on Twitter fixed by rules. Conversational regularities are created out of certain usage cultures, such as the hashtags referring to other users. For example, follower recommendations can be marked by '#ff'. Regarding the communicative functionalities, Twitter itself sets the rules by its program code and offers a stable communication environment, but at the same time limits interactive creativity.When applying these five dimensions to concrete Twitter activities, different perspectives can be taken for text analysis. Subsequently, we present three approaches based on the analysis of a large corpus of tweets collected during the 2010-12 state elections in Germany.<xen> 1 </xen> Bases of analysis are tweets posted by politicians, citizens ('public sphere') and media accounts during four state elections in Germany. The data is summarized inTable 15.1: For analysis, the following categories were chosen: <list> (a)",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF2": {
+                "text": "individual level (style of tweets) and the interactive level (interactive exchanges). At the individual level, our operator model of Twitter allows a systematic approach of operator usage and frequency as markers of individual styles. Especially for politicians interacting with citizens, this perspective becomes relevant. (c) Discursive participation on the interactive exchange level: Direct discursive exchanges between interactants reflect the dyadic approach to deliberation. For this perspective, direct exchanges on Twitter are taken as 'deliberative discussions', which demonstrate the discursive options of microblogging.</list> For the analysis, a triangulate approach was chosen: a quantitative (1) and a qualitative (2) content analysis as well as a linguistic tweet analysis (3). The quantitative analysis is used in order to evaluate interpersonal interaction (@replies and @retweets) on the basis of the functional operator model (see Figure 15.1). Frequency counts of the specific Twitter elements and the analysis of their co-occurrences lead to different types of Twitter communication (activity profiles, tweeting styles). In addition, not only were the most frequently discussed topics during the evaluation periods counted, but all hashtag-based discourses on the interactive level, identifying specific communicative actions and interaction structures (e.g., types of reference, topic management), were assessed. With this multi-method approach, tweets can be analysed with regard to quantitative and qualitative qualities. In addition, the social exchange between the participants within a politically motivated Twitter discourse can be categorized. The results discussed below were selected to highlight these functionalities in the context of deliberation structures. <list> (a) Topic frequency: The most interesting results were obtained during state elections in Baden-Wuerttemberg. Here, not only #Fukushima (red line) and nuclear power (#akw, blue line) but a local traffic project in the state capital of Stuttgart (#s21, yellow line) were the top topics. Particularly on the day of the election (March 27, 2011), the high peak of #s21 shows intense activity. This is important insofar as the Green Party fervently fought against this traffic project and won the election, overthrowing the conservative Christian Democratic Union (CDU) after 50 years of uninterrupted power in this state.</list>",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF3": {
+                "text": "Discursive participation on the interactive exchange level: At the beginning of this article it was argued that mediatization is a process over time. The final example shows how important it is to reflect on the changes of media usage over time. It illustrates a passage of direct exchange between a politician and a citizen in October 2012. This excerpt gives an example of a more recent type of usage of Twitter, in which argumentation and discussion play a much bigger role. The participants are Volker Beck, a well-known gay MP of the Green party, and a user (user1). They discuss the equal rights bill for gays:</list> <list> (1) Volker_Beck: How many verdicts do Merkel and the government need until they understand: Anything else than equal rights [for heterosexuals and homosexuals] is discrimination!",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF4": {
+                "text": "Selected hashtag frequency during the state elections in Baden-W\u00fcrttemberg 2011 (election day 27 March 2011) Figure 15.2 Twitpic storytelling in a political conflict (#S21) Figure 15. 1 Functional operator model of Twitter Figure 15.2 Twitpic narration on Twitter Notes <en-group type=\"endnotes\"> <en><label>1</label> We thank the German Science Foundation (DFG) for supporting our research project 'Political deliberation and microblogging' in the special research programme 1505 'Mediatized worlds'.</en> </en-group>",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "TABREF0": {
+                "text": "Volker_Beck: 'All are equal before the law.' With all of its diversity. That's what the Basic Law, article III, says @User1 http://[link to Basic Law text]",
+                "content": "<table><tr><td>(4)</td><td>User1: @Volker_Beck Basic Law, article 6 governs the promotion of marriage as</td></tr><tr><td colspan=\"2\">(also biological) foundation of families with children #demography</td></tr><tr><td>(5)</td><td>Volker_Beck: @User1 The Parliamentary Council has already decided differently in</td></tr><tr><td colspan=\"2\">1948/49. Read the protocols! It was governed differently in the Weimar Constitution though</td></tr><tr><td>(6)</td><td>User1: @Volker_Beck I stick to the text of the Basic Law, the comments and verdicts</td></tr><tr><td colspan=\"2\">that argument predominantly for today's common juridical practice</td></tr></table>",
+                "type_str": "table",
+                "num": null,
+                "html": null
+            },
+            "TABREF1": {
+                "text": "Functional operator model of TwitterTable 15.2 Twitter usage during four state elections in Germany by selected groups",
+                "content": "<table><tr><td colspan=\"11\">Table 15.3 Operator frequencies by most active politicians per party during state elections in</td></tr><tr><td colspan=\"2\">Baden-W\u00fcrttemberg</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td/><td colspan=\"2\">Stefan Mappus (CDU)</td><td colspan=\"2\">Matthias Tr\u00f6ndle (SPD)</td><td colspan=\"2\">Michael Gelb (FDP)</td><td colspan=\"2\">Barbara Bruhn (GR\u00dcNE)</td><td colspan=\"2\">Jan L\u00fcdke-Rei\u00dfmann</td></tr><tr><td/><td colspan=\"2\">@stefanmappus</td><td colspan=\"2\">@M_Troendle</td><td>@mmgelb</td><td/><td>@BJ_Bruhn</td><td/><td colspan=\"2\">(PIRATEN) @Jan_LR</td></tr><tr><td/><td colspan=\"2\">N (Tweet) = 44</td><td colspan=\"2\">N (Tweet) = 22</td><td colspan=\"2\">N (Tweet) = 51</td><td colspan=\"2\">N (Tweet) = 117</td><td colspan=\"2\">N (Tweet) = 183</td></tr><tr><td/><td>Anzahl</td><td>Share of activity</td><td>Anzahl</td><td>Share of activity</td><td>Anzahl</td><td>Share of activity</td><td>Anzahl</td><td>Share of activity</td><td>Anzahl</td><td>Share of activity</td></tr><tr><td>Retweets</td><td>0</td><td>0%</td><td>2</td><td>6%</td><td>3</td><td>5%</td><td>19</td><td>9%</td><td>116</td><td>24%</td></tr><tr><td>@-Communication</td><td>0</td><td>0%</td><td>2</td><td>6%</td><td>17</td><td>29%</td><td>3</td><td>1%</td><td>60</td><td>13%</td></tr><tr><td>Hashtags</td><td>44</td><td>73%</td><td>14</td><td>39%</td><td>4</td><td>7%</td><td>72</td><td>35%</td><td>238</td><td>50%</td></tr><tr><td>Links</td><td>13</td><td>22%</td><td>17</td><td>47%</td><td>21</td><td>36%</td><td>112</td><td>54%</td><td>61</td><td>13%</td></tr><tr><td>None</td><td>3</td><td>5%</td><td>1</td><td>3%</td><td>14</td><td>24%</td><td>1</td><td>0%</td><td>4</td><td>1%</td></tr></table>",
+                "type_str": "table",
+                "num": null,
+                "html": null
+            },
+            "TABREF2": {
+                "text": "Twitter styles of the most active politicians during state elections in Baden-W\u00fcrttemberg 2011",
+                "content": "<table/>",
+                "type_str": "table",
+                "num": null,
+                "html": null
+            }
+        }
+    }
+}

@@ -1,0 +1,2818 @@
+{
+    "paper_id": "10",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-09-21T21:51:17.843497Z"
+    },
+    "title": "Discursively (de-)constructing European foreign policy: Theoretical and methodological challenges",
+    "authors": [
+        {
+            "first": "Erik",
+            "middle": [],
+            "last": "Knud",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "",
+            "middle": [],
+            "last": "J\u00f8rgensen",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "This article is about European foreign policy, specifically an examination of ways in which discourse analysis and foreign policy analysis can be brought together. The first aim of this article is to explicate the explanandum in some detail. Before we know what we are looking for, it gives limited meaning to consider procedures for ways of analysing it. Once the explanandum has been identified, the article examines theoretical approaches and critically discusses their promises and limitations. Priority is given to the option of applying constructivist discursive theories that might (or might not) have been developed with a view to analysing foreign policy, European foreign policy included. In doing so, the article aims at bridging several sometimes very different fields of study: discourse theory, sometimes utterly unaware of or uninterested in foreign affairs; and foreign policy analysis, frequently descriptive in orientation and at times characterized by less-than-benign neglect of discourse theory.",
+    "pdf_parse": {
+        "paper_id": "10",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "This article is about European foreign policy, specifically an examination of ways in which discourse analysis and foreign policy analysis can be brought together. The first aim of this article is to explicate the explanandum in some detail. Before we know what we are looking for, it gives limited meaning to consider procedures for ways of analysing it. Once the explanandum has been identified, the article examines theoretical approaches and critically discusses their promises and limitations. Priority is given to the option of applying constructivist discursive theories that might (or might not) have been developed with a view to analysing foreign policy, European foreign policy included. In doing so, the article aims at bridging several sometimes very different fields of study: discourse theory, sometimes utterly unaware of or uninterested in foreign affairs; and foreign policy analysis, frequently descriptive in orientation and at times characterized by less-than-benign neglect of discourse theory.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "friendly to Brussels. 5 The Eurostat contributes some of the (aggregate) European data that national statistical services systematically neglect, for which reason Europe is somewhat unknown to Europeans, including scholars cherishing methodological nationalism.",
+                "cite_spans": [
+                    {
+                        "start": 22,
+                        "end": 23,
+                        "text": "5",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The EEAS employs different means of communication, reflecting the variation of the audiences it aims to reach. The EEAS website is one such tool, both a means in its own right and a gateway to a rich variety of communication channels and forms. Ashton and top EEAS officials give speeches, and her staff issues statements and provides news. 6 Presumably they are involved in drafting both Council of Ministers and European Council conclusions. Ashton might also, as Vice-President of the European Commission, be involved in authorizing mandates for white papers, green papers, communications and other kinds of policy documents. 7 This article aims at understanding the significance of this kind of institutional communication and how it resonates with existing discourses on foreign affairs. It does so by bridging two avenues of research: one avenue focusing on relations between elite and public, and a second avenue focusing on foreign policy traditions -thus illustrating some of the arguments that Caterina Carta and Jean-Frederic Morin have emphasized (Introduction to this special issue). 8 In research on the relationship between foreign policy and public opinion, Gabriel Almond's (1960) distinction between a 'general public', an 'attentive public' and a 'policy and opinion elite' has proved to be of lasting value. 9 According to Almond's slightly provocative claim, the general public does not understand and, in any case, does not care about foreign policy, except perhaps during crises. The attentive public is a fairly exclusive and educated segment of the general public, and the elite can interact with the attentive public, at least in terms of more general or abstract reasoning. The policy and opinion elite comprises several groupings -diplomats, journalists, politicians, academics -who know to various degrees the insights and rationales of policies and are thus in a perfect position to interact within the elite as well as with the attentive public.",
+                "cite_spans": [
+                    {
+                        "start": 341,
+                        "end": 342,
+                        "text": "6",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 629,
+                        "end": 630,
+                        "text": "7",
+                        "ref_id": "BIBREF86"
+                    },
+                    {
+                        "start": 1097,
+                        "end": 1098,
+                        "text": "8",
+                        "ref_id": "BIBREF88"
+                    },
+                    {
+                        "start": 1182,
+                        "end": 1197,
+                        "text": "Almond's (1960)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1328,
+                        "end": 1329,
+                        "text": "9",
+                        "ref_id": "BIBREF89"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The present article focuses first and foremost on the interaction between the policy and opinion elite (POE) and the attentive public (AP) -not all types of interaction, but specifically discursive interaction. How does the policy and opinion elite articulate European foreign policy to the attentive public? Which abstract idioms, symbols or (historical) analogies are being employed, and which idioms are typically at the hearts and minds of the attentive public? In this context, the article examines the issue of contested discourses between, within and especially across EU member states, arguing that significant insight can be gained by means of analysing contested discourses within member states, including the degree to which these discourses have a transnational nature. In this respect, the article focuses on themes similar to those analysed by Caterina Carta and Thomas Diez (both in this special issue), even if the approach is slightly different. Subsequently, the article explicates two key terms, public philosophy and mythology, highlighting their crucial importance for the objectives of this article. The article then turns to what could be labelled 'discursive shareware', i.e. the overlaps that exist between different levels and segments of discourse.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Research on foreign policy and discourse has frequently focused on national discourses and their impact on political approaches to European foreign policy (Hellmann, 1996; Larsen, 1997; Aggestam, 2004 ; see also Larsen's contribution to this special issue). This literature can be seen as a discursive variant of research on the interplay between national and European foreign policy (Hill, 1983; Wong and Hill, 2011; Manners and Whitman, 2000; , i.e., research emphasizing the significance of national foreign policy for the genesis and dynamics of European foreign policy.",
+                "cite_spans": [
+                    {
+                        "start": 155,
+                        "end": 171,
+                        "text": "(Hellmann, 1996;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 172,
+                        "end": 185,
+                        "text": "Larsen, 1997;",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 186,
+                        "end": 200,
+                        "text": "Aggestam, 2004",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 384,
+                        "end": 396,
+                        "text": "(Hill, 1983;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 397,
+                        "end": 417,
+                        "text": "Wong and Hill, 2011;",
+                        "ref_id": "BIBREF79"
+                    },
+                    {
+                        "start": 418,
+                        "end": 444,
+                        "text": "Manners and Whitman, 2000;",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "While this literature has proved to be highly informative and is probably the best available on relations between member states and EU foreign policy, it is also characterized by a number of weaknesses. 10",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "In the first place, it tends to reify the national, thereby downplaying the contested nature of both national and, to a lesser extent, European foreign policy. Moreover, it focuses on only one dimension of contested policy, i.e., it highlights how foreign policy is contested among EU member states and downplays different worldviews and preferred foreign policy directions within member states. Finally, it somehow downplays processes of Europeanization, that is, the impact of Europe on member states' institutions and policymaking processes. These tendencies constitute classic examples of analytical trade-offs, obviously implying that the alternative is also characterized by its own distinct configuration of strengths and weaknesses.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "The second potential source of inspiration is the huge body of literature that we label foreign policy analysis (FPA). It is nothing else but overwhelming in terms of scholarship (Hudson 19952005) . Reaching back to the 1950s, it has a long tradition and a mutually constitutive relationship with International Relations as a discipline; given the incredible range of approaches and theories within FPA, it can be considered an analytical goldmine that awaits its European golddiggers; its numerous examples of best practice studies suggest it should be an obligatory first stop source of inspiration. However, interfaces between the FPA tradition and research on European foreign policy are very limited (Carlsnaes and Smith 1994; White, 2001; Carlsnaes, White and Sjursen eds. 2004; Carlsnaes 2007) . It seems that the two parties never entered a lasting or giving relationship. Matchmakers have been few, prime representatives of the tradition have never found the EU case particularly attractive, this in stark contrast to the case of the United States. By contrast, scholars in Europe tend to find the FPA tradition too US-centric, too positivist and too state-centric. Scholars in Europe tend to abandon the analytical rigidness of FPA and embrace a kind of analytical realist naturalism (as understood within the arts).",
+                "cite_spans": [
+                    {
+                        "start": 179,
+                        "end": 196,
+                        "text": "(Hudson 19952005)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 705,
+                        "end": 731,
+                        "text": "(Carlsnaes and Smith 1994;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 732,
+                        "end": 744,
+                        "text": "White, 2001;",
+                        "ref_id": "BIBREF78"
+                    },
+                    {
+                        "start": 745,
+                        "end": 784,
+                        "text": "Carlsnaes, White and Sjursen eds. 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 785,
+                        "end": 800,
+                        "text": "Carlsnaes 2007)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "In order to create an alternative perspective, it is fruitful to examine some historical and a few contemporary examples of contested foreign policy discourses. When E.H. Carr in 1939 engaged in criticism of liberalism, especially what he called utopian idealism, he was first and foremost criticizing a distinct foreign policy tradition in Europe (Carr, 2001 (Carr, [1939 ). His target was British liberal internationalism, but the tradition was not unknown on the European continent, e.g. in France, Scandinavia and elsewhere. By contrast, it had been effectively repressed in Germany, Austria, Italy, Spain and other countries where authoritarian or totalitarian rule had been introduced. E.H. Carr did not only criticize, he criticized from a position: pleading for appeasement, i.e. a distinct form of limited engagement (Haslam, 2000; Sylvest, 2007; . Hans Morgenthau (1946) phrased Carr's message slightly differently but the target was identical, though extended to include also, and perhaps especially, the American (Wilsonian) liberal tradition. When Jean-Yves Haine 2009criticizes European liberal internationalism, he essentially replicates Carr's and Morgenthau's criticisms, though he situates his analysis and criticism in the early 21 st century.",
+                "cite_spans": [
+                    {
+                        "start": 348,
+                        "end": 359,
+                        "text": "(Carr, 2001",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 360,
+                        "end": 372,
+                        "text": "(Carr, [1939",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 826,
+                        "end": 840,
+                        "text": "(Haslam, 2000;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 841,
+                        "end": 855,
+                        "text": "Sylvest, 2007;",
+                        "ref_id": "BIBREF74"
+                    },
+                    {
+                        "start": 863,
+                        "end": 880,
+                        "text": "Morgenthau (1946)",
+                        "ref_id": "BIBREF58"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "Hence, criticism of liberal internationalism seems to be a constant (see also Paris, 1997) . As both Carr and Morgenthau are famous early representatives of the realist theoretical tradition, we witness here also an example of the connection between theoretical orientation and criticism of political practice, including the discursive dimension of political practice.",
+                "cite_spans": [
+                    {
+                        "start": 78,
+                        "end": 90,
+                        "text": "Paris, 1997)",
+                        "ref_id": "BIBREF64"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "Criticism of the opposite political position has, likewise, been a constant. There is a long discursive line from Norman Angell's criticism of power politics, via Ernst Haas' criticism of the notion of balance of power, to Mario Bettati and Bernard Kouchner's (1987) argument for an international right to intervene, provided interventions are prompted by humanitarian concerns. A fairly similar reasoning is behind R2P, the newly established principle of a responsibility to protect (see Knudsen, 2013) . Terry Nardin (2006) has eminently examined how such a right can possibly be supported by philosophical arguments, i.e. at the level that in the present context is of most relevance. Others have examined R2P concerning more operational policy concerns, thus overlooking that the prime function of R2P is organizing the politics of prevention and intervention, not to determine whether intervention in Darfur is more urgent than in Libya or the appropriate balance between intervention and prevention (for a critical overview of these debates, see Chandler 2009 ). While we should expect the principled positions to appear in debates on operational issues, we should not expect too much determinism. For the present purposes, identifying the contours of broad schools of thought, a few additional examples suffice.",
+                "cite_spans": [
+                    {
+                        "start": 489,
+                        "end": 503,
+                        "text": "Knudsen, 2013)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 512,
+                        "end": 525,
+                        "text": "Nardin (2006)",
+                        "ref_id": "BIBREF59"
+                    },
+                    {
+                        "start": 1052,
+                        "end": 1065,
+                        "text": "Chandler 2009",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "Jane Sharp (1997) has delivered a devastating criticism of British conservative internationalism, especially in the context of the wars in the former Yugoslavia. Joschka Fischer (2011) has forwarded similar arguments vis-\u00e0-vis the doctrines of German foreign policy as defined by Angela Merkel's government, i.e. limited engagement and high levels of risk aversion.",
+                "cite_spans": [
+                    {
+                        "start": 5,
+                        "end": 17,
+                        "text": "Sharp (1997)",
+                        "ref_id": "BIBREF69"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "There are other distinct European foreign policy traditions -e.g. isolationism, commercial internationalism and the tradition cherishing development policy -but in the present context, we do not need to go into further detail (see J\u00f8rgensen, 2013) . We have already seen how politicians and academics make use of distinct idioms -e.g. 'utopian idealism', 'Munich', 'Maginot' -when analysing a given state of affairs or characterizing their opponents. In other words, when addressing their attentive public, they make use of certain discourses, and because the attentive public has certain insights into foreign affairs we can speak about a certain discursive shareware. Before examining discursive shareware, two follow-up questions should be addressed.",
+                "cite_spans": [
+                    {
+                        "start": 231,
+                        "end": 247,
+                        "text": "J\u00f8rgensen, 2013)",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "Recalling that Almond wrote about foreign affairs within a state, one question concerns the degree to which national experiences can be or are replicated at the European level. This might be difficult. According to Vivien Schmidt, 'the lack of connection between spheres of discourse is a frequent occurrence in the European Union' (Schmidt, 2008: 311) . According to Paul Statham, options for such replication are limited:",
+                "cite_spans": [
+                    {
+                        "start": 332,
+                        "end": 352,
+                        "text": "(Schmidt, 2008: 311)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 368,
+                        "end": 381,
+                        "text": "Paul Statham,",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "Applying this formula to a Europeanized politics, we believe that the \"attentive public\" has been very much smaller than it usually is in domestic politics. This is supported by our findings that civil society mobilization is weak in discursive influence. A consequence of this very small attentive public from civil society over Europe is that the mass media has taken center stage as the actor representing the public (2010: 301).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "Though this conclusion concerns European integration, it is difficult to see why it should not also apply to the field of foreign policy, perhaps even more so than for European politics as such.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "Essentially we do not know whether this is the case, particularly because the triangle consisting of 'discourse', 'public opinion' and 'foreign policy' has been under-researched. The first legdiscourse-public opinion -is first and foremost characterized by a remarkable gap, if not an ocean, between discourse-oriented scholars who work within the interpretive tradition and, on the other hand, scholars working in the tradition of positivist empiricism. Bridges between these two worlds apart are extremely rare. The second leg -discourse-foreign policy -has caught some attention, cf. the examples provided above, but these examples are exceptions to the rule that foreign policy analysts 'don't do discourse analysis' and vice versa. The third leg -public opinion-foreign policyis of some significance concerning national foreign policy, American foreign policy not least of all, but is almost absent when it comes to European foreign policy. Officials at the EEAS will have a hard time finding data on Europeans' opinions on or attitudes to European foreign policy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "In short, we might find a fragmented public sphere and a relatively limited attentive public in Europe. Existing research points in this direction, yet further study is needed in order to reach a more decisive conclusion. This potentially fragmented public sphere can be seen as bad for processes of public deliberation on the direction of European foreign policy. Yet analytically, it should make the task of understanding the dynamics of European foreign policy relatively easier. Seemingly, such understandings have to be complemented by studies of media coverage of foreign affairs.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "The second question is whether the foreign policy traditions and their key idioms somehow connect to the EEAS. The answer is that it varies. Members of the isolationist (often nationalist and populist, though not always) tradition generally do not aim at influencing the direction of European foreign policy. They aim at destroying it, thereby performing the role of the enemy within. When examining the foreign policy thinking within Le Pen's Front National, among UKIPs, segments of British Conservatives, Vaclav Klauses and Kazcinskis, Lega Nordists, Vlaams Blok and Scandinavian progress parties, studies consistently conclude that their discourse is not only directed at their political opponents but also at the institutions that have been built and are occupied by political opponents (see Swyngedouw et al., 2007) . Studies also conclude that isolationist populists generally do not care about global affairs, except when certain debates (for example, border issues) can be politicized. It should be added that not all European nationalists are hostile to the EU: indeed both the Lega Nord and the Front National were once friends of the EU, the former finding the role of EU regions attractive, the latter using the EU instrumentally in its blatant anti-Americanism.",
+                "cite_spans": [
+                    {
+                        "start": 797,
+                        "end": 821,
+                        "text": "Swyngedouw et al., 2007)",
+                        "ref_id": "BIBREF73"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "Catalan, Basque, Scottish and Welsh nationalists, to mention just a few, turn their criticism towards their national capitals and the politics they represent, not Brussels. While the EU might function as a partner vis-\u00e0-vis national capitals, European foreign policy is for these nationalists often a horizon too far.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "For members of the commercial internationalist foreign policy tradition, the EEAS might be of interest but it is DG Trade that is of crucial importance -not least when representing European commercial interests, e.g. in negotiations of bilateral trade agreements or during deliberations within multilateral institutions. As commercial interests can be promoted or protected by different means, the tradition is split along a range of lines, e.g. free traders vs. protectionists.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "No matter the differences between and within traditions, data are available and the traditions can be researched and, to some degree, already have been. The advantage is that a focus on foreign policy traditions avoids the traps of methodological nationalism. The analytical challenge is to connect research on foreign policy traditions, discourse and the EEAS.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contested discourses between and within EU member states",
+                "sec_num": null
+            },
+            {
+                "text": "One important notion for this article is public philosophy, coined by Samuel H. Beer (1978) , elaborated by Margaret Weir (1992) and recently further refined by Paul Schumaker (2008) . 11 It is probably difficult to underestimate the analytical importance and possibilities embedded in the distinction between public philosophy, policy and administrative programmes. In the words of Margaret Weir, public philosophy expresses broad concepts that are tied to values and moral principles and that can be represented in political debate in symbols and rhetoric \u2026 Public philosophies play a central role in organizing politics, but their capacity to direct policy is limited; without ties to programmatic ideas their influence is difficult to sustain (1992: 207-8).",
+                "cite_spans": [
+                    {
+                        "start": 80,
+                        "end": 91,
+                        "text": "Beer (1978)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 117,
+                        "end": 128,
+                        "text": "Weir (1992)",
+                        "ref_id": "BIBREF77"
+                    },
+                    {
+                        "start": 161,
+                        "end": 182,
+                        "text": "Paul Schumaker (2008)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Public Philosophies",
+                "sec_num": null
+            },
+            {
+                "text": "Political rhetoric is often characterized by vague notions, ambiguity and generous inconsistency, leaving plenty of space for connotation (for a thorough analysis of the discrete charm of ambiguity, see Reyroux, this special issue). Often, it is precisely such qualities that make political rhetoric work. Let us now turn to Paul Schumaker, who explains that 'Public philosophies, like political ideologies, provide fairly comprehensive and coherent sets of ideas about politics. Both provide beliefs about how political communities are governed, ideals about the goals that should be sought by political communities, and principles providing broad guidelines for achieving those goals' (Schumaker, 2008: 1) . Schumaker not only defines public philosophy, he also provides a framework for generating, describing and analysing public philosophies. He emphasizes that public philosophies are promising for public policy debates that can function as an alternative to ideological warfare.",
+                "cite_spans": [
+                    {
+                        "start": 687,
+                        "end": 707,
+                        "text": "(Schumaker, 2008: 1)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Public Philosophies",
+                "sec_num": null
+            },
+            {
+                "text": "The notion of public philosophy provides direction and guidelines, especially concerning what to look for, and is therefore immensely helpful for research into the discursive dimensions of foreign policy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Public Philosophies",
+                "sec_num": null
+            },
+            {
+                "text": "The second important notion is mythology. While at a superficial level myth is considered the antithesis of reality, I employ the notion of mythology in a fashion that is inspired by anthropology.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mythologies",
+                "sec_num": null
+            },
+            {
+                "text": "In this context, mythology is reality. It is telling that Roland Barthes (2000) has thoroughly examined the nature of mythology. It is equally telling that it takes an anthropologist to state the following, \"In general one is struck by the lack of European symbolism. What we can call a symbolic deficit corresponds to the absence of a coherent set of political concepts and discourse.",
+                "cite_spans": [
+                    {
+                        "start": 65,
+                        "end": 79,
+                        "text": "Barthes (2000)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mythologies",
+                "sec_num": null
+            },
+            {
+                "text": "Everything is working as if Europe was destined to remain a virtual object (Abeles, 2004) . Within sociological institutionalism, myth and ceremonial features also play an important role (March and Olsen, 1989 ; for similarities to discursive institutionalism, see Smith, this special issue).",
+                "cite_spans": [
+                    {
+                        "start": 75,
+                        "end": 89,
+                        "text": "(Abeles, 2004)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 187,
+                        "end": 209,
+                        "text": "(March and Olsen, 1989",
+                        "ref_id": "BIBREF56"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mythologies",
+                "sec_num": null
+            },
+            {
+                "text": "However, here the point of departure is John Kane's (2009) book on American foreign policy. He employs the notion by emphasizing that the myth, being mythical, never accurately described American realities, for the function of myth is not to reflect and report the superficial realities of this or any other moment. The domain of myth is not empirical reality but imagination, and the source of its sustenance is not reason but faith. One of the functions of myth is to provide people with a deeper story, a narrative that can encompass their own individual stories and give them meaning, worth, and hope, connected by something more than mere contingency (2009: 5).",
+                "cite_spans": [
+                    {
+                        "start": 45,
+                        "end": 58,
+                        "text": "Kane's (2009)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mythologies",
+                "sec_num": null
+            },
+            {
+                "text": "It could be said that several of the connections to foreign policy traditions were introduced above.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mythologies",
+                "sec_num": null
+            },
+            {
+                "text": "This said, it remains a challenge to conduct research on imagination and faith and the role of these features within the field of foreign affairs. Did we academics get the function of notions such as 'civilian power Europe', 'Europe as a model' or 'European values' right? Did we not examine the degree to which these notions match European realities, as if these realities were different from the realm of mythology? However, and following Kane, if the domain of myth is not empirical reality but imagination, then the contending processes of meaning formation should be our primary field of study (cf. Thomas Diez' contribution to this special issue). At the very least, we should be able to make analytical distinctions between the mythological and policy levels of European foreign policy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mythologies",
+                "sec_num": null
+            },
+            {
+                "text": "Communication between POE and AP is largely handled by means of abstract concepts, symbols, principles and a range of mythologies, i.e., by means of what sometimes, cf. above, is called public philosophies. Such philosophies are shared, but only more or less. In order to understand the function of public philosophies, it might be helpful to distinguish between four levels.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discursive shareware",
+                "sec_num": null
+            },
+            {
+                "text": "\uf0b7 The level of foreign policy traditions. These typically have their own distinct categories and idioms, and the degree of discursive shareware with other traditions is somewhat limited.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discursive shareware",
+                "sec_num": null
+            },
+            {
+                "text": "Exactly how limited depends on specific traditions and circumstances, and this varies over time (Holbraad 2003; Mead, 2002; Nau, 2002; Sylvest, 2009 ). If we look at the transnational dimension, the distinct traditions might share quite a bit of discursive components, although some traditions seem to be more coherent than others.",
+                "cite_spans": [
+                    {
+                        "start": 96,
+                        "end": 111,
+                        "text": "(Holbraad 2003;",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 112,
+                        "end": 123,
+                        "text": "Mead, 2002;",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 124,
+                        "end": 134,
+                        "text": "Nau, 2002;",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 135,
+                        "end": 148,
+                        "text": "Sylvest, 2009",
+                        "ref_id": "BIBREF75"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discursive shareware",
+                "sec_num": null
+            },
+            {
+                "text": "\uf0b7 The national level. At this level, we find distinct national symbols and mythologies (see \uf0b7 At the European level, we also find mythologies at work, for instance 'Europe as a model', 'European values', 'civilian/normative power', 'a global front-runner' (not so often 'leader'!), 'beyond power politics' (although slippages into the language of power politics can also be seen, for example the Laeken Declaration referring to a multipolar world), 'responsibility', (and in a bygone world: Europe providing a 'standard of civilization', cf. Gong 1984) . Each of these mythological concepts plays a role in and is connected to the public philosophies characterizing foreign policy traditions. For representatives of foreign policy traditions, the usefulness of the concepts varies (exactly because discourses are essentially contested, cf. arguments by Thomas Diez in this special issue). 'Europe as a model' is useful for isolationists who prefer Europe not to do too much of anything in foreign affairs. For them it is sufficient to be (a model). Moreover, the concept is compatible with a liberal mindset because Europe is constructed as a (liberal) vanguard, characterized by (liberal) European values which, obviously, this group aims to project worldwide. So far, the EEAS seems first and foremost to have been settling in,physically and organizationally, and therefore not that successful in terms of engaging the attentive European public by means of mythology. Some might want to consider the Nobel Peace Prize 2013 a contribution to European mythology in foreign affairs, but the reason for giving the European Union the prize was primarily Euro-centric, making one of the most violent continents peaceful, and not so much in recognition of European foreign policy.",
+                "cite_spans": [
+                    {
+                        "start": 542,
+                        "end": 552,
+                        "text": "Gong 1984)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discursive shareware",
+                "sec_num": null
+            },
+            {
+                "text": "\uf0b7 At the global level, the United Nations can be regarded a site for norm production and the EU can be seen as a norm-taker (Human rights, R2P, the Millennium Development Goals, the alliance of civilizations concept, etc.) (see Barnett and Finnemore, 2004) . It is not only the UN that provides norms and principles for the EU to download. Within the field of development policy, the OECD Development Assistance Committee (DAC) and the World Bank perform a similar function (Carroll and Kellow, 2013) . Within the field of nonproliferation, the EU has proved to be very active in downloading norms and principles, yet has demonstrated limited capacity to make and implement policies (van Ham, 2011; Kienzle and Vestergaard, 2013) . These examples illustrate the significance of discourses in international affairs, but also the fact that the EU does not always speak. Sometimes, the EU listens, and adopts or adapts to global norms. Institutions at the sub-global level also play a role, for example NATO's role as a model for the EU in defence matters and the role of the United States in triggering the rationale for the 2003 European Security Strategy (Biscop, 2005) , including its emphasis on WMD and terrorism as main threats to European security.",
+                "cite_spans": [
+                    {
+                        "start": 228,
+                        "end": 256,
+                        "text": "Barnett and Finnemore, 2004)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 474,
+                        "end": 500,
+                        "text": "(Carroll and Kellow, 2013)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 683,
+                        "end": 698,
+                        "text": "(van Ham, 2011;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 699,
+                        "end": 729,
+                        "text": "Kienzle and Vestergaard, 2013)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 1155,
+                        "end": 1169,
+                        "text": "(Biscop, 2005)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discursive shareware",
+                "sec_num": null
+            },
+            {
+                "text": "Indeed, the very notion of having a strategy to guide policymaking was subsequently copied by some EU member states, especially France, Germany and the United Kingdom.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discursive shareware",
+                "sec_num": null
+            },
+            {
+                "text": "In the context of this distinction between four (and a half) levels, three issues merit closer attention.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discursive shareware",
+                "sec_num": null
+            },
+            {
+                "text": "The first concerns the relationship between POE and AP. In Europe, the AP seems to be rather compartmentalized, partly because each level has its distinct constituencies, partly because communication tends to take place in different languages and, finally, because the European foreign policy tradition has been cultivated at a certain distance from both the general and the attentive public. Notably, the tradition in question is different from what is otherwise referred to as tradition in this article. 12 However, compartmentalization can also be exaggerated. Differences between globalization, mondialization and globalisierung do not seem that impressive, even if connotations can be significantly different. Moreover, it is not that different from the US case, where interplays between different levels also occur. Finally, even if the European AP does exist, it might be that it is not fully conscious of its own existence-though in February, when a considerable segment of the AP demonstrated throughout Europe against the Iraq War, it demonstrated its presence (Habermas and Derrida 2003) . It should be noted that I take a European perspective on compartmentalization, that is, how European citizens are divided into a number of segments among which some are nationally defined whereas others are defined by foreign policy traditions. Though Nicholas Aylott (2002) also analyze compartmentalization, he focuses on how Scandinavian parties compartmentalize European integration issues, for instance by means of referenda, suspension of party discipline and sequencing different party goals (office, policies, voters, unity) . While Aylott's analyzes the strategic behaviour of social democratic parties in a national context, I focus on the normative superstructure that the policy and opinion elite employs when presenting reasons for action. With such a focus my explanandum concerns the issue of how action templates, including world-views, principled beliefs and causal beliefs (cf. Hudson 1999; Brommesson 2010) are reflected in public discourses. While these discourses rarely follow party division lines, indeed that is one of the reasons party leaders employ compartmentalization in the sense used by Aylott, the discourses do provide bridges of understanding between the POE and the AP. Research on the two types of compartmentalization seems therefore complementary rather than competitive. A joint research agenda appears therefore highly promising.",
+                "cite_spans": [
+                    {
+                        "start": 1071,
+                        "end": 1098,
+                        "text": "(Habermas and Derrida 2003)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1353,
+                        "end": 1375,
+                        "text": "Nicholas Aylott (2002)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1600,
+                        "end": 1633,
+                        "text": "(office, policies, voters, unity)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discursive shareware",
+                "sec_num": null
+            },
+            {
+                "text": "The second issue concerns the relationship between public philosophy and foreign policy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discursive shareware",
+                "sec_num": null
+            },
+            {
+                "text": "Whether they contribute to uploading or downloading, public philosophies do not explain foreign policy as such, i.e., as policy. However, they do help us to better understand reasons for action, i.e., the process of legitimizing European foreign policy. As foreign policy is a broad church, all sorts of reasons come into play, for instance an ethics of responsibility, obligations we owe to a third-party or to ourselves as Europeans, historical analogies (e.g. European integration as the antithesis to European power politics ), the dialectical construction of Self and Others (anti-Americanism, anti-Muslim, anti-Soviet, libertarian heavens). In this fashion, public philosophies help us understand how the politics of foreign policy is organized. In order to do so it might be helpful to employ the notions of uploading and downloading. When actors make reference to a certain public philosophy they download for instance principles that guide operational policy-making. By contrast, uploading happens when a foreign policy instrument is turned into a principle, when means become ends an end. Thus, negotiations can be considered a means in the conduct of foreign affairs, yet can also be turned into an end in itself, for instance opposing the employment of coercive means. The notions of uploading and downloading can be traced back to the early theories of European integration, cf. neofunctionalism and its focus on the likelihood of national competences being uploaded to a European political community. Over time such uploading might be followed by processes of downloading, cf. the effects of international institutions in neoliberal institutionalism (Keohane 1989) or the effects of the Euro-polity on national institutions and processes of policy-making (B\u00f6rzel 2002) .They help us understand how the politics of foreign policy is organized.",
+                "cite_spans": [
+                    {
+                        "start": 1664,
+                        "end": 1678,
+                        "text": "(Keohane 1989)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 1769,
+                        "end": 1782,
+                        "text": "(B\u00f6rzel 2002)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discursive shareware",
+                "sec_num": null
+            },
+            {
+                "text": "The third issue concerns the increased public philosophy activity at the global or international (or, rather, transnational) level, not least the increasing number and multiple kinds of actors involved. The emergence and importance of transnational actors have been demonstrated in, e.g., the processes leading to the establishment of the International Criminal Court, the adoption of the R2P, the formulation of the Millennium Development Goals, the treaty ban on anti-personnel landmines and the treaty on small firearms (Krause, 2002; Long, 2002; Groenleer and Rijks, 2009) .",
+                "cite_spans": [
+                    {
+                        "start": 523,
+                        "end": 537,
+                        "text": "(Krause, 2002;",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 538,
+                        "end": 549,
+                        "text": "Long, 2002;",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 550,
+                        "end": 576,
+                        "text": "Groenleer and Rijks, 2009)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discursive shareware",
+                "sec_num": null
+            },
+            {
+                "text": "The increased activity and the emergence of new kinds of actors might imply that representatives of traditional foreign policy traditions feel challenged, not least because they no longer seem to enjoy a monopoly on defining directions and means or on controlling communication. There might occasionally have been certain tensions between representatives of foreign policy traditions and professional diplomats, but the new challenge is very different. Parts of the European attentive public subscribe to international actors and communicators, and sometimes the EU chooses to do the same. Hence, the EU is not only a nation writ large, projecting its values and interests. It is also a micro-cosmos of the world, reflecting the global normative superstructure in a second-image reversed fashion. 13 The EU might be the world region that most consistently contributes and subscribes to global norms and, in addition, seeks to promote these norms globally.",
+                "cite_spans": [
+                    {
+                        "start": 797,
+                        "end": 799,
+                        "text": "13",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discursive shareware",
+                "sec_num": null
+            },
+            {
+                "text": "In general, the attentive public employs public philosophy concepts and is sufficiently attentive to understand the significance of the concepts employed by the policy and opinion elite. Almond did not use the notions of public philosophy and mythology, and he did not write about Europe.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analytical Potentials and Limits",
+                "sec_num": null
+            },
+            {
+                "text": "However, the employment of public philosophy and mythology does not seem to cause serious problems as it is merely a question of providing more refinement and nuance. By contrast, the application of his ideas to the case of Europe does provide some serious analytical challenges. 14 The attentive public, to the degree it makes sense to keep the notion in the singular form, does not know where, exactly, to look for the policy and opinion elite's discursive communication.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analytical Potentials and Limits",
+                "sec_num": null
+            },
+            {
+                "text": "Subscription to the EEAS' statements does not do the trick. According to Stefan Lehne (2011), these statements sometimes happen to be mere empty words, issued in order to appear as a significant player but without the substance necessary to issue statements of consequence. The same applies to the minutes of European Parliament debates, in part because Members of the European Parliament have only limited interest in or responsibility for European foreign policy. Academic books and articles are generally too academic and do not necessarily contribute to legitimizing European foreign policy. European media tends to either believe that there is nothing of significance to report, or to make the EEAS as such (or other institutions) the theme of their stories, not the politics or specific policies (for academic studies of the EEAS, see Barber, 2010; Duke, 2010; Vanhoonacker and Reslow, 2011; Carta, this special issue) . While the media find member states' criticisms of the EEAS worthy to report, they find considerably less 'news quality' in policy reviews of, e.g., the European Neighbourhood Policy. Importantly, the policy and opinion elite is a composite entity. Its policy segment is collective in decision-making (when decisions are possible), yet often separate when legitimizing political positions and actions. Legitimizing is not often, 'Why did we decide to take European foreign policy in direction X' but rather, 'How I managed to safeguard aspect Y, precious to all of us, the people of country Z'. Despite the fact that the policy and opinion elite is a composite entity and that the national representatives typically do not contribute to European discourse, and that European media are not a channel for communication, some exceptions do exist. Books by Chris Patten, Robert Cooper, David Spence, Joschka Fischer, Simon Nuttall and many others contribute to the genesis of a European public sphere in the field of foreign affairs. Likewise, it would be possible to analyse the changing discourses over time of, e.g., Relex Commissioners, Development or Trade Commissioners and, not to be forgotten, High Representatives. Similarly, all EPC, CFSP and E/CSDP statements and declarations are available, though never systematically analysed (whether by means of content analysis or discourse analysis). For some reason, analysts have either avoided analysing political discourse or have uncritically reproduced it, e.g. writing about the EU's strategies vis-\u00e0-vis country X, Y or Z without even attempting to use the term 'strategy'",
+                "cite_spans": [
+                    {
+                        "start": 841,
+                        "end": 854,
+                        "text": "Barber, 2010;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 855,
+                        "end": 866,
+                        "text": "Duke, 2010;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 867,
+                        "end": 897,
+                        "text": "Vanhoonacker and Reslow, 2011;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 898,
+                        "end": 924,
+                        "text": "Carta, this special issue)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analytical Potentials and Limits",
+                "sec_num": null
+            },
+            {
+                "text": "analytically, or writing about policies A, B or C without examining which kind of policy, if any, the declared policies represent. As previously demonstrated, there are significant gaps between practitioners' and analysts' discourses; the former refers to median line politics (e.g. Nuttall, 1992; , the latter refers endlessly to lowest common denominator politics (J\u00f8rgensen, 1997) .",
+                "cite_spans": [
+                    {
+                        "start": 283,
+                        "end": 297,
+                        "text": "Nuttall, 1992;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 366,
+                        "end": 383,
+                        "text": "(J\u00f8rgensen, 1997)",
+                        "ref_id": "BIBREF38"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analytical Potentials and Limits",
+                "sec_num": null
+            },
+            {
+                "text": "In the European context, the policy and opinion elite is to a considerable degree an abstraction, not least because the policy and opinion elites seem to live in worlds apart. Concerning European foreign policy, some media editors and commentators subscribe to two doctrines of European foreign policy: 'Does not exist' and 'Does exist but is bound to fail', i.e. distinct discourses in their own right (see J\u00f8rgensen, 2004) . Other segments of the media tend to follow national politicians' example and, perhaps with a view to segments of media markets, tell their readers 'the national story', the story from the perspective of country X or the 'what's in it for us' story. Some academics tend to summarize media coverage (especially in the English language), not regarded as a discourse to be analysed, but as a shortcut to sources of the true state of affairs. Thus, their studies become merely a concentrate of media coverage, especially coverage by English-language media.",
+                "cite_spans": [
+                    {
+                        "start": 408,
+                        "end": 424,
+                        "text": "J\u00f8rgensen, 2004)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analytical Potentials and Limits",
+                "sec_num": null
+            },
+            {
+                "text": "Sometimes the policy elite seem to believe that it is sufficient to download global principles and add declaratory policies and some administrative programmes to constitute a world-class international player. No wonder they are less than keen to legitimize their political actions, leading us to a state of affairs in which there is limited policy discourse to analyse.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analytical Potentials and Limits",
+                "sec_num": null
+            },
+            {
+                "text": "The discursive processes of constructing European foreign policy have increased in terms of both scope and density. Over time, ever more policy areas have been included in the politics of European foreign policy, and ever more dense discursive fabrics are being woven by the policy and opinion elite. In other words, an ever-more impressive dataset avails itself for analysis. However, relatively few analysts have engaged in this field of research. While the dynamics of policymaking have been documented in numerous studies, the dynamics of the politics of European foreign policy has attracted limited interest. 15 This article has pointed to potential points of departure, including a focus on foreign policy traditions and the public philosophies, mythologies and world views they make use of. Drawing on Almond's classic study, a distinction was made between, on the one hand, the policy and opinion elite and, on the other hand, the public (divided into the attentive and the general public). Moreover, the analytical perspective was changed from the one characterizing the dominant (vertical) mode of analysis to a horizontal perspective on the politics of European foreign policy. Subsequently, the article outlined analytical potentials, that is, reflections on the feasibility of a number of avenues of research. While not underestimating the degree to which the policy and opinion elite as well as the attentive public are compartmentalized, it was argued that Almond's concept is applicable in studies of the politics of European foreign policy. Moreover, the article pointed to the promise of engaging analytically with the discursive practices of the EEAS and other key European institutions. not action templates within states. Hagan examines linkages between domestic politics and decision to go to war. The latter focus is thus more cut to size than the one examined in this article whereas the former provides a much broader focus than my focus on public philosophies and mythology. 15 Studies of the discursive processes of constructing European foreign policy might well benefit from studies of the spatial and temporal dimensions of foreign policy. Whereas research on the so-called areas of concentration in foreign policy (the profile of foreign policy actors) can contribute to the spatial dimension, studies of the temporal dimension are capable of contributing important insights to the merger between temporal and discursive features (on time, see Ekengren 1996 ; on phases, see Smith 2012).",
+                "cite_spans": [
+                    {
+                        "start": 2002,
+                        "end": 2004,
+                        "text": "15",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2476,
+                        "end": 2489,
+                        "text": "Ekengren 1996",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "However, RichardSinnott (2000) points out that Eurobarometer data should be handled just as cautious as any other source of data.6 Speech delivered by Nick Westcott, Managing Director Africa EEAS, to the EUISS conference on EU-Africa foreign policy after Lisbon, 18. October 2011. For an analysis of specific EEAS speeches, see Carta, this special issue.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Except for studies of trade policy, principal agent theory and rational choice have never really made it to the field of foreign policy.11 This section and the following draw on K.E. J\u00f8rgensen 2012.12 The European foreign policy tradition refers here to foreign policy separate from democratic institutions, foreign policy being the prerogative of the government.13 The two ways street of normative influence is thus fairly different from Heikki Patom\u00e4ki's (2012) examination of the dynamics of a world political community. There is a detectable overlap between the two perspectives, for instance in terms of Europe's role in legitimizing global norms and, sometimes trigger conflicts on normative issues.14 It is not only the application of Almonds categories that cause challenges but also the studies within foreign policy analysis that examine the role of perceptions and culture (see for instanceHagan 1994 andHudson 1999). Hudson examines the role of 'action templates' and thereby covers some of the features of this article but she focuses on states,",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Identity and Borders: An Anthropological Approach to EU Institutions, Twenty-First Century Papers: On-Line Working Papers from the The Center for 21st Century Studies",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Abeles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Abeles, M. (2004) Identity and Borders: An Anthropological Approach to EU Institutions, Twenty- First Century Papers: On-Line Working Papers from the The Center for 21st Century Studies, University of Wisconsin -Milwaukee, Number 4, December 2004.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The American People and Foreign Policy",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Almond",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1960,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Almond G (1960) The American People and Foreign Policy. New York: Praeger.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "A European Foreign Policy? Role Conceptions and the Politics of Identity in Britain",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Aggestam",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Aggestam L (2004) A European Foreign Policy? Role Conceptions and the Politics of Identity in Britain, France and Germany, PhD thesis, Stockholm: Department of Political Science.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Let's Discuss this later: Party Responses to Euro-division in Scandinavia",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Aylott",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Party Politics",
+                "volume": "8",
+                "issue": "4",
+                "pages": "441--461",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Aylott N (2002) Let's Discuss this later: Party Responses to Euro-division in Scandinavia. Party Politics 8(4): 441-461.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "The Appointment of Herman van Rompuy and Catherine Ashton",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Barber",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Journal of Common Market Studies",
+                "volume": "48",
+                "issue": "",
+                "pages": "55--67",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Barber T (2010) The Appointment of Herman van Rompuy and Catherine Ashton. Journal of Common Market Studies 48: 55-67.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Rules for the World. International Organizations in Global Politics",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Barnett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Finnemore",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Barnett M and Finnemore M (2004) Rules for the World. International Organizations in Global Politics. Cornell: Cornell University Press.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Search of a New public Philosophy",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Beer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "5--44",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Beer SH (1978) In Search of a New public Philosophy. In: King A (ed.) The New American Political System. Washington, DC: American Enterprise Institute, 5-44.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Le devoir d'ing\u00e9rence: peut-on les laisser mourir",
+                "authors": [],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bettati M and Kouchner B (eds) (1987) Le devoir d'ing\u00e9rence: peut-on les laisser mourir? Paris: Deno\u00ebl.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Rethinking governmentality: Towards genealogies of governance",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Bevir",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Cooperation and Conflict",
+                "volume": "13",
+                "issue": "4",
+                "pages": "423--441",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bevir M (2010) Rethinking governmentality: Towards genealogies of governance. Cooperation and Conflict 13(4): 423-441.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "The European Security Strategy. A Global Agenda for Positive Power",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Biscop",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Biscop S (2005) The European Security Strategy. A Global Agenda for Positive Power. Aldershot: Ashgate.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Normative Europeanization: The case of Swedish foreign policy reorientation",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Brommeson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Cooperation and Conflict",
+                "volume": "45",
+                "issue": "2",
+                "pages": "224--244",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Brommeson D (2010) Normative Europeanization: The case of Swedish foreign policy reorientation. Cooperation and Conflict 45(2): 224-244.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Pace-Setting, Foot-Dragging, and Fence-Sitting: Member State Responses to Europeanization",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "B\u00f6rzel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of Common Market Studies",
+                "volume": "40",
+                "issue": "2",
+                "pages": "193--214",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "B\u00f6rzel TA (2002) Pace-Setting, Foot-Dragging, and Fence-Sitting: Member State Responses to Europeanization. Journal of Common Market Studies 40(2): 193-214.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "European Foreign Policy",
+                "authors": [
+                    {
+                        "first": "Walter",
+                        "middle": [],
+                        "last": "Carlsnaes",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Handbook of European Union Politics",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Carlsnaes, Walter (2007) 'European Foreign Policy', in K. E. J\u00f8rgensen, M. Pollack and B. Rosamond (eds.), Handbook of European Union Politics. London, Sage.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "European Foreign Policy. The EC and Changing Perspectives in Europe",
+                "authors": [],
+                "year": 1994,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Carlsnaes, W. and Smith, S. eds. (1994) European Foreign Policy. The EC and Changing Perspectives in Europe, London: Sage.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Helene Sjursen and B",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Carlsnaes",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Contemporary European Foreign Policy",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Carlsnaes, W., Helene Sjursen and B. White eds. (2004) Contemporary European Foreign Policy, London: Sage.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "The Twenty Years' Crisis, 1919-1939: Reissued with new introduction: An Introduction to the Study of International Relations",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Carr",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1939,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Carr EH [1939] (2001) The Twenty Years' Crisis, 1919-1939: Reissued with new introduction: An Introduction to the Study of International Relations. Basingstoke: Palgrave.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "The OECD",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Carroll",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kellow",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "The European Union and International Institutions: Performance, Policy, Power. Abingdon: Routledge",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Carroll P and Kellow A (2013) The OECD. In: J\u00f8rgensen KE and Laatikainen KV (eds) The European Union and International Institutions: Performance, Policy, Power. Abingdon: Routledge.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "The Paradox of the 'Responsibility to Protect",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Chandler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Cooperation and Conflict",
+                "volume": "45",
+                "issue": "1",
+                "pages": "128--134",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chandler D (2009) The Paradox of the 'Responsibility to Protect. Cooperation and Conflict 45(1): 128-134.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Europe in the World: All Change or no Change in Foreign Policy After Lisbon?",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Donnelly",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "The International Spectator",
+                "volume": "45",
+                "issue": "2",
+                "pages": "17--22",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Donnelly B (2010) Europe in the World: All Change or no Change in Foreign Policy After Lisbon? The International Spectator 45(2): 17-22.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "The European External Action Service. Diplomatic System of the European Union Policy Paper 2",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Duke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Duke S (2010) The European External Action Service. Diplomatic System of the European Union Policy Paper 2, July.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "European Commission (annually) General Report on the Activities of the European Union",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "European Commission (annually) General Report on the Activities of the European Union. Luxembourg: Official Publications.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "The Europeanization of State Administration: Adding the Time Dimension",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Ekengren",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Cooperation and Conflict",
+                "volume": "31",
+                "issue": "4",
+                "pages": "387--415",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ekengren M (1996) The Europeanization of State Administration: Adding the Time Dimension. Cooperation and Conflict 31(4): 387-415.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Deutsche Aussenpolitik -eine Farce, S\u00fcddeutsche Zeitung",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Fischer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fischer J (2011) Deutsche Aussenpolitik -eine Farce, S\u00fcddeutsche Zeitung, 24 March.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Indicators of a successful EEAS. European Development Cooperation Strengthening Programme",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Gavas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Maxwell",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gavas M and Maxwell S. (2010) Indicators of a successful EEAS. European Development Cooperation Strengthening Programme. London: Overseas Development Institute.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "The standard of 'civilization' in international society",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Gong",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gong GW (1984) The standard of 'civilization' in international society. Oxford: Clarendon.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "The European Union and the International Criminal Court: The Politics of International Criminal Justice",
+                "authors": [
+                    {
+                        "first": "Mlp",
+                        "middle": [],
+                        "last": "Groenleer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Rijks",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "The European Union and International Organizations",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Groenleer MLP and Rijks D (2009) The European Union and the International Criminal Court: The Politics of International Criminal Justice. In: J\u00f8rgensen KE (ed.) The European Union and International Organizations. London: Routledge.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Nach dem Krieg: Die Wiedergeburt Europas, Frankfurter Allegemeine",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Habermas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Derrida",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Habermas, J. and J. Derrida (2003) Nach dem Krieg: Die Wiedergeburt Europas, Frankfurter Allegemeine Zeitung 31 May.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Domestic Political Systems and War Proneness",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Hagan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Mershon International Studies Review",
+                "volume": "38",
+                "issue": "2",
+                "pages": "183--207",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hagan JD (1994) Domestic Political Systems and War Proneness. Mershon International Studies Review 38(2): 183-207.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "The European crisis of Liberal Internationalism",
+                "authors": [
+                    {
+                        "first": "J-Y",
+                        "middle": [],
+                        "last": "Haine",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "International Journal (Spring)",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Haine J-Y (2009) The European crisis of Liberal Internationalism. International Journal (Spring).",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "The Vices of Integrity. EH Carr 1892-1982",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Haslam",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Haslam J (2000) The Vices of Integrity. EH Carr 1892-1982. London: Verso.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Goodbye Bismarck? The Foreign Policy of Contemporary Germany",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Hellmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Mershon International Studies Review",
+                "volume": "40",
+                "issue": "1",
+                "pages": "1--39",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hellmann G (1996) Goodbye Bismarck? The Foreign Policy of Contemporary Germany. Mershon International Studies Review 40(1): 1-39.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "National Foreign Policies and European Political Cooperation",
+                "authors": [],
+                "year": 1983,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hill C (ed.) (1983) National Foreign Policies and European Political Cooperation. London: Allen and Unwin.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "The Actors in Europe's Foreign Policy",
+                "authors": [],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hill C (ed.)(1996) The Actors in Europe's Foreign Policy. London: Routledge.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Internationalism and Nationalism In European Political Thought",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Holbraad",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Holbraad C (2003) Internationalism and Nationalism In European Political Thought. Basingstoke: Palgrave.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "The Structure of Foreign Policy Attitudes among American Leaders",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Holsti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Rosenau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "The Journal of Politics",
+                "volume": "52",
+                "issue": "1",
+                "pages": "94--125",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Holsti OR and Rosenau JN (1990) The Structure of Foreign Policy Attitudes among American Leaders. The Journal of Politics 52(1): 94-125.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Foreign Policy Analysis Yesterday, Today, and Tomorrow",
+                "authors": [
+                    {
+                        "first": "Valerie",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Hudson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Vore",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Mershon International Studies Review",
+                "volume": "39",
+                "issue": "",
+                "pages": "209--238",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hudson, Valerie M. & Vore, C. S. (1995) 'Foreign Policy Analysis Yesterday, Today, and Tomorrow', Mershon International Studies Review, 39(Supplement 2): 209-238.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Cultural Expectations of One's Own and Other Nations Foreign Policy Action Templates",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Hudson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Political Psychology",
+                "volume": "20",
+                "issue": "4",
+                "pages": "767--801",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hudson VM (1999) Cultural Expectations of One's Own and Other Nations Foreign Policy Action Templates. Political Psychology 20(4): 767-801.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Reflective approaches to European Governance",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "J\u00f8rgensen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "J\u00f8rgensen KE (1997) PoCo: the diplomatic republic of Europe. In: J\u00f8rgensen KE (ed.) Reflective approaches to European Governance. New York: St Martin's Press.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Three doctrines on",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "J\u00f8rgensen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "European Foreign Policy. Welt Trends",
+                "volume": "42",
+                "issue": "",
+                "pages": "27--36",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "J\u00f8rgensen KE (2004) Three doctrines on European Foreign Policy. Welt Trends 42: 27-36.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "The European Union and International Organizations",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "J\u00f8rgensen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "J\u00f8rgensen KE (ed.) (2009) The European Union and International Organizations. London: Routledge.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Does Europe have Foreign Policy Traditions",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "J\u00f8rgensen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Rethinking Foreign Policy",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "J\u00f8rgensen KE (2013) Does Europe have Foreign Policy Traditions. In: Bynander F and Guzzini S (eds) Rethinking Foreign Policy. Abingdon: Routledge.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Between Virtue and Power. The Persistent Moral Dilemma of U.S. Foreign Policy",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kane",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kane J (2009) Between Virtue and Power. The Persistent Moral Dilemma of U.S. Foreign Policy. New Haven: Yale University Press.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "International Institutions and State Power: Essays in International Relations Theory",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Keohane",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Keohane, R. O. (1989) International Institutions and State Power: Essays in International Relations Theory (Boulder, San Francisco and London: Westview).",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "The emerging EU System of Diplomacy: how Fit for Purpose? Diplomatic System of the European Union Policy Paper 1",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Keukeleire",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Vanhoonacker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Keukeleire S, Smith M and Vanhoonacker S (2010) The emerging EU System of Diplomacy: how Fit for Purpose? Diplomatic System of the European Union Policy Paper 1, March.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "The non-proliferation regimes",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Kienzle",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Vestergaard",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "The European Union and International Institutions: Performance, Policy, Power. Abingdon: Routledge",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kienzle B and Vestergaard C (2013) The non-proliferation regimes. In: J\u00f8rgensen KE and Laatikainen KV (eds) The European Union and International Institutions: Performance, Policy, Power. Abingdon: Routledge.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "The responsibility to protect: European contributions in a changing world order",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Knudsen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "The European Union and International Institutions: Performance, Policy, Power. Abingdon: Routledge",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Knudsen TB (2013) The responsibility to protect: European contributions in a changing world order. In: J\u00f8rgensen KE and Laatikainen KV (eds) The European Union and International Institutions: Performance, Policy, Power. Abingdon: Routledge.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Multilateral Diplomacy, Norm Building, and UN Conferences: The Case of Small Arms and Light Weapons",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Krause",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Global Governance",
+                "volume": "8",
+                "issue": "",
+                "pages": "274--263",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Krause K (2002) Multilateral Diplomacy, Norm Building, and UN Conferences: The Case of Small Arms and Light Weapons. Global Governance 8: 274-263.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Regularized Intergovernmentalism: France-Germany and Beyond",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Krotz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1963,
+                "venue": "",
+                "volume": "6",
+                "issue": "",
+                "pages": "147--185",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Krotz U (2010) Regularized Intergovernmentalism: France-Germany and Beyond (1963-2009). Foreign policy analysis 6: 147-185.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Foreign Policy and Discourse Analysis: France, Britain and Europe",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Larsen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Larsen H (1997) Foreign Policy and Discourse Analysis: France, Britain and Europe. London: Routledge.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "More Action, Better Service How to Strengthen the European External Action Service",
+                "authors": [
+                    {
+                        "first": "Stefan",
+                        "middle": [],
+                        "last": "Lehne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lehne, Stefan (2012) More Action, Better Service How to Strengthen the European External Action Service, Policy Outlook, Carnegie Europe.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "The European Union and the Ottawa Process to Ban Landmines",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Long",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of European Public Policy",
+                "volume": "9",
+                "issue": "",
+                "pages": "429--446",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Long D (2002) The European Union and the Ottawa Process to Ban Landmines. Journal of European Public Policy 9: 429-446.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Values and Principles in European Foreign Policy",
+                "authors": [],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lucarelli S and Manners I (eds) (2006) Values and Principles in European Foreign Policy. London: Routledge.",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Normative Power Europe: A Contradiction in Terms",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Manners",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Journal of Common Market Studies",
+                "volume": "40",
+                "issue": "",
+                "pages": "235--258",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Manners I (2005) Normative Power Europe: A Contradiction in Terms. Journal of Common Market Studies 40: 235-258.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "The Foreign Policies of EU Member States",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Manners",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Whitman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Manners I and Whitman R (2000) The Foreign Policies of EU Member States. Manchester: Manchester University Press.",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "The Foreign Policies of European Union Member States",
+                "authors": [],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Manners I and Whitman R (eds) (2010) The Foreign Policies of European Union Member States. Manchester: Manchester University Press.",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "Rediscovering institutions: The organizational basis of politics",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "March",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Olsen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "March JC and Olsen J (1989) Rediscovering institutions: The organizational basis of politics. New York: The Free Press.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "Special Providence. American Foreign Policy and How It has Changed the World",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Mead",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mead WR (2002) Special Providence. American Foreign Policy and How It has Changed the World. London: Routledge.",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "Scientific man vs. power politics",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Morgenthau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1946,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Morgenthau H (1946) Scientific man vs. power politics. Chicago: University of Chicago Press.",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "International political theory and the question of justice",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Nardin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "International Affairs",
+                "volume": "82",
+                "issue": "3",
+                "pages": "449--465",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nardin T (2006) International political theory and the question of justice. International Affairs 82(3): 449-465.",
+                "links": null
+            },
+            "BIBREF60": {
+                "ref_id": "b60",
+                "title": "At Home Abroad. Identity and Power in American Foreign Policy",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Nau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nau HR (2002) At Home Abroad. Identity and Power in American Foreign Policy. Ithaca: Cornell University Press.",
+                "links": null
+            },
+            "BIBREF64": {
+                "ref_id": "b64",
+                "title": "Peacebuilding and the limits of liberal internationalism. International Security Patom\u00e4ki H (2012) The problems of legitimation and potential conflicts in a world political community",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Paris",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Cooperation and Conflict",
+                "volume": "47",
+                "issue": "2",
+                "pages": "239--259",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Paris R (1997) Peacebuilding and the limits of liberal internationalism. International Security Patom\u00e4ki H (2012) The problems of legitimation and potential conflicts in a world political community. Cooperation and Conflict 47(2): 239-259.",
+                "links": null
+            },
+            "BIBREF65": {
+                "ref_id": "b65",
+                "title": "European Diplomatic Representations in Third Countries: Trends and Options",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Rijks",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Whitman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rijks D and Whitman R (2007) European Diplomatic Representations in Third Countries: Trends and Options. In: Avery G and Missiroli A (eds) The EU Foreign Service: how to build a more effective common policy. Brussels: European Policy Centre Working Paper No. 28.",
+                "links": null
+            },
+            "BIBREF66": {
+                "ref_id": "b66",
+                "title": "Beyond Compliance: The Europeanization of Member States through Negative Integration and Legal Uncertainty",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Schmidt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Journal of Comparative Policy Analysis: Research and Practice",
+                "volume": "10",
+                "issue": "3",
+                "pages": "299--308",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schmidt SK (2008) Beyond Compliance: The Europeanization of Member States through Negative Integration and Legal Uncertainty. Journal of Comparative Policy Analysis: Research and Practice 10(3): 299-308.",
+                "links": null
+            },
+            "BIBREF67": {
+                "ref_id": "b67",
+                "title": "Discursive Institutionalism: The Explanatory Power of Ideas and Discourse",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Schmidt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Annual Review of Political Science",
+                "volume": "11",
+                "issue": "",
+                "pages": "303--326",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schmidt V (2008) Discursive Institutionalism: The Explanatory Power of Ideas and Discourse. Annual Review of Political Science 11: 303-326.",
+                "links": null
+            },
+            "BIBREF68": {
+                "ref_id": "b68",
+                "title": "From Ideologies to Public Philosophies. An Introduction to Political Theory",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Schumaker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schumaker J (2008) From Ideologies to Public Philosophies. An Introduction to Political Theory. Oxford: Blackwell.",
+                "links": null
+            },
+            "BIBREF69": {
+                "ref_id": "b69",
+                "title": "Honest Broker or Perfidious Albion: British Policy in Former Yugoslavia",
+                "authors": [
+                    {
+                        "first": "Jmo",
+                        "middle": [],
+                        "last": "Sharp",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sharp JMO (1997) Honest Broker or Perfidious Albion: British Policy in Former Yugoslavia. London: Institute for Public Policy Research.",
+                "links": null
+            },
+            "BIBREF70": {
+                "ref_id": "b70",
+                "title": "Knowledge and the Position of Attitudes to a European Foreign Policy on the Real-to-Random Continuum",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Sinnott",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "International Journal of Public Opinion Research",
+                "volume": "12",
+                "issue": "2",
+                "pages": "113--137",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sinnott R (2000) Knowledge and the Position of Attitudes to a European Foreign Policy on the Real-to-Random Continuum. International Journal of Public Opinion Research 12(2): 113- 137.",
+                "links": null
+            },
+            "BIBREF71": {
+                "ref_id": "b71",
+                "title": "Still Rooted in Maastricht: EU External Relations as a 'Third-generation Hybrid'",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Smith",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Journal of European Integration",
+                "volume": "34",
+                "issue": "7",
+                "pages": "699--715",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Smith M (2012) Still Rooted in Maastricht: EU External Relations as a 'Third-generation Hybrid'. Journal of European Integration 34(7): 699-715.",
+                "links": null
+            },
+            "BIBREF72": {
+                "ref_id": "b72",
+                "title": "What kind of europeanized Public Politics?",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Statham",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "The Making of a European Public Sphere: Media Discourse and Political Contention",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Statham P (2010) What kind of europeanized Public Politics? In: Koopmans R and Statham P (eds) The Making of a European Public Sphere: Media Discourse and Political Contention. Cambridge University Press.",
+                "links": null
+            },
+            "BIBREF73": {
+                "ref_id": "b73",
+                "title": "Our Own People First in a Europe of Peoples: The International Policy of the Vlaams Blok",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Swyngedouw",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Abts",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Van Craaen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Europe for the Europeans: the foreign and security policy of the populist radical right. Ashgate",
+                "volume": "",
+                "issue": "",
+                "pages": "81--102",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Swyngedouw M, Abts K Van Craaen M (2007) Our Own People First in a Europe of Peoples: The International Policy of the Vlaams Blok. In: Liang CS (ed.) Europe for the Europeans: the foreign and security policy of the populist radical right. Ashgate, 81-102.",
+                "links": null
+            },
+            "BIBREF74": {
+                "ref_id": "b74",
+                "title": "Beyond the State? Pluralism and Internationalism in Early Twentieth-century Britain",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Sylvest",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "International Relations",
+                "volume": "21",
+                "issue": "1",
+                "pages": "67--85",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sylvest C (2007) Beyond the State? Pluralism and Internationalism in Early Twentieth-century Britain. International Relations 21(1): 67-85.",
+                "links": null
+            },
+            "BIBREF75": {
+                "ref_id": "b75",
+                "title": "The European Union's WMD Strategy and the CFSP: a critical analysis",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Sylvest",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sylvest C (2009) British Liberal Internationalism. Manchester: Manchester University Press. van Ham, Peter (2011) The European Union's WMD Strategy and the CFSP: a critical analysis, London: Non-Proliferation Papers, No. 2_September 2011",
+                "links": null
+            },
+            "BIBREF76": {
+                "ref_id": "b76",
+                "title": "The European External Action Service: Living Forwards by Understanding Backwards",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Vanhoonacker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Reslow",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "European Foreign Affairs Review",
+                "volume": "15",
+                "issue": "",
+                "pages": "1--18",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vanhoonacker S and Reslow N (2010) The European External Action Service: Living Forwards by Understanding Backwards. European Foreign Affairs Review 15: 1-18.",
+                "links": null
+            },
+            "BIBREF77": {
+                "ref_id": "b77",
+                "title": "Ideas and the Politics of Bounded Innovation",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Weir",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Structuring Politics. Historical Institutionalism in Comparative Perspective",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Weir M (1992) Ideas and the Politics of Bounded Innovation. In: Steinmo S, Thelen K and Longstreth F (eds) Structuring Politics. Historical Institutionalism in Comparative Perspective. Cambridge: Cambridge University Press.",
+                "links": null
+            },
+            "BIBREF78": {
+                "ref_id": "b78",
+                "title": "Understanding European Foreign Policy",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "White",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "White, B. (2001) Understanding European Foreign Policy, Basingstoke: Palgrave.",
+                "links": null
+            },
+            "BIBREF79": {
+                "ref_id": "b79",
+                "title": "National and European Foreign Policies: Towards Europeanization",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Wong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Hill",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wong R and Hill C (2011) National and European Foreign Policies: Towards Europeanization. Abingdon: Routledge.",
+                "links": null
+            },
+            "BIBREF80": {
+                "ref_id": "b80",
+                "title": "An earlier version of this manuscript was presented at the Gr:een workshop",
+                "authors": [],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "An earlier version of this manuscript was presented at the Gr:een workshop, \"The EU as a global discursive actor\", Brussels 14-15 February 2012. I would like to thank the participants for their very helpful comments and feedback.",
+                "links": null
+            },
+            "BIBREF81": {
+                "ref_id": "b81",
+                "title": "Moreover, I would like to thank he two editors and the three anonymous reviewers for their most helpful critical comments on the draft manuscript",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Moreover, I would like to thank he two editors and the three anonymous reviewers for their most helpful critical comments on the draft manuscript, helping me to significantly improve the draft.",
+                "links": null
+            },
+            "BIBREF82": {
+                "ref_id": "b82",
+                "title": "While the budget is sizeable, it is a composite budget consisting of contributions from other EU institutions",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "While the budget is sizeable, it is a composite budget consisting of contributions from other EU institutions.",
+                "links": null
+            },
+            "BIBREF83": {
+                "ref_id": "b83",
+                "title": "Further down the street, i.e. the Rue de la Loi, there is another institution of some significance for foreign affairs",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Further down the street, i.e. the Rue de la Loi, there is another institution of some significance for foreign affairs, DG",
+                "links": null
+            },
+            "BIBREF84": {
+                "ref_id": "b84",
+                "title": "Trade, representing the European Union in international trade negotiations, whether bilateral or multilateral",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Trade, representing the European Union in international trade negotiations, whether bilateral or multilateral. Though DG Trade also has a website and communicates with the world, the present article will focus on the activities of the EEAS.",
+                "links": null
+            },
+            "BIBREF85": {
+                "ref_id": "b85",
+                "title": "Functional similarity includes diplomatic recognition and the distinction between headquarters and diplomatic representations in 130+ countries (see Rijks and Whitman",
+                "authors": [],
+                "year": 2007,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Functional similarity includes diplomatic recognition and the distinction between headquarters and diplomatic representations in 130+ countries (see Rijks and Whitman 2007).",
+                "links": null
+            },
+            "BIBREF86": {
+                "ref_id": "b86",
+                "title": "A partnership for democracy and shared prosperity with the Southern Mediterranean",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "E.g. Joint communication, 'A partnership for democracy and shared prosperity with the Southern Mediterranean' (8.3.2011); Joint communication, 'A new response to a changing Neighbourhood' (25.5.2011);",
+                "links": null
+            },
+            "BIBREF87": {
+                "ref_id": "b87",
+                "title": "Joint Communication to the European Parliament and The Council: Human Rights and Democracy at the Heart of EU External Action -towards",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Joint Communication to the European Parliament and The Council: Human Rights and Democracy at the Heart of EU External Action -towards",
+                "links": null
+            },
+            "BIBREF88": {
+                "ref_id": "b88",
+                "title": "While the interpretive tradition is highly relevant for this special issue, Bevir's definition of tradition, \"a tradition is the ideational background against which individuals come to adopt an initial web of beliefs\" (2010: 434). In turn, beliefs are not that different from the notion of public philosophy, i.e. one of the other conceptual components in this article. Finally, when explaining why the notion of tradition is not always employed in political science research, Bevir points to a methodological issue",
+                "authors": [],
+                "year": 2009,
+                "venue": "One of my reviewers points out that the concept of tradition is key to the direction of the article. I have several reasons to be thankful for this feedback",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "One of my reviewers points out that the concept of tradition is key to the direction of the article. I have several reasons to be thankful for this feedback. First, because it highlights my leanings toward employing the notion, cf. the key role it plays in my textbook on International Relations theory (J\u00f8rgensen 2009.). Second, because the feedback was accompanied by suggestions to consult the interpretive tradition, specifically work by Mark Bevir (2010). While the interpretive tradition is highly relevant for this special issue, Bevir's definition of tradition, \"a tradition is the ideational background against which individuals come to adopt an initial web of beliefs\" (2010: 434). In turn, beliefs are not that different from the notion of public philosophy, i.e. one of the other conceptual components in this article. Finally, when explaining why the notion of tradition is not always employed in political science research, Bevir points to a methodological issue, \"Because positivist political scientists rarely concentrate on meanings, they rarely evoke traditions\" (2010: 434).",
+                "links": null
+            },
+            "BIBREF89": {
+                "ref_id": "b89",
+                "title": "Almond's book is obviously not the only show in town, far from it. Indeed other approaches have more trust in the knowledge and interest of the general public (for an overview, see Holsti and Rosenau, 1990). Thus, I do not necessarily find Almond's approach compelling",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Almond's book is obviously not the only show in town, far from it. Indeed other approaches have more trust in the knowledge and interest of the general public (for an overview, see Holsti and Rosenau, 1990). Thus, I do not necessarily find Almond's approach compelling, but I do find his distinction useful for this paper.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "text": "Larsen, this special issue). Some Danish examples would be '1864', 'never again a 9 th April', 'foreign policy activism', 'a small, open economy', 'neutralism' (especially vis-\u00e0-vis European great powers), 'footnote policy', 'something on heroes'. Beyond Danish borders, these categories do not necessarily make much sense, but they play a key role in constitutingthe imagined community of Danes and their dominant modes of politics. Research on Danish foreign policy tends to reify the tradition by reproducing distinct moments and symbols -and in turn explains why Denmark or at least Danish governments and segments of the attentive public at times have certain problems with European foreign policy. Though the specifics are presumably different, other countries also have their fabric of symbols and mythologies.",
+                "uris": null,
+                "type_str": "figure"
+            }
+        }
+    }
+}
