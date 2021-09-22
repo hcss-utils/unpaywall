@@ -1,21 +1,23 @@
-import os
+import uuid
 import json
 import logging
+from pathlib import Path
 import httpx
 
 
 EMAIL = "hcssteamukraine@gmail.com"
 BASE_URL = "https://api.unpaywall.org/v2"
+USELESS_FIELDS = ["first_oa_location", "oa_locations", "oa_locations_embargoed"]
 
-root = os.path.dirname(os.path.abspath(__file__))
-data = os.path.join(root, "data")
-pdfs = os.path.join(data, "raw_pdfs")
+ROOT = Path(__file__).resolve().parent
+DATA = ROOT / "data"
+PDFS = DATA / "raw_pdfs"
 
 
 def create_logger(name):
     logger = logging.getLogger(name)
     logger.setLevel(logging.DEBUG)
-    fh = logging.FileHandler(os.path.join(root, f"{name}.log"))
+    fh = logging.FileHandler(ROOT / f"{name}.log")
     fh.setLevel(logging.DEBUG)
     sh = logging.StreamHandler()
     sh.setLevel(logging.DEBUG)
@@ -57,35 +59,36 @@ def stream_response(session, endpoint):
 
 
 def download(session, response):
-    filename = response["doi"].replace("/", "_")
+    filename = response["uuid"]
     try:
         pdf_link = response["best_oa_location"]["url_for_pdf"]
     except TypeError:
-        logger.info(f"{filename} - is empty")
+        logger.info(f'{response["doi"]} - is empty')
         return
-    with open(os.path.join(pdfs, rf"{filename}.pdf"), "wb") as output:
+    with open(PDFS / f"{filename}.pdf", "wb") as output:
         for chunk in stream_response(session, pdf_link):
             output.write(chunk)
 
 
 def update_jsonl(response, filepath):
-    with open(os.path.join(data, filepath), "a", encoding="utf-8") as out:
+    with open(DATA / filepath, "a", encoding="utf-8") as out:
         json.dump(response, out)
         out.write("\n")
 
 
 def fetch(dois):
     hooks = {"request": [log_request], "response": [raise_on_4xx_5xx, log_response]}
-    with httpx.Client(timeout=60, event_hooks=hooks) as session:
+    with httpx.Client(timeout=None, event_hooks=hooks) as session:
         for doi in dois:
             response = session.get(f"{BASE_URL}/{doi}?email={EMAIL}")
             if response.status_code == 404:
                 logging.info(response["message"])
                 continue
             data = response.json()
+            data["uuid"] = uuid.uuid4().hex
             download(session, data)
-            update_jsonl(data, "data.jsonl")
-            logger.info(f"Downloaded/updated {doi}")
+            processed_data = {k: v for k, v in data.items() if k not in USELESS_FIELDS}
+            update_jsonl(processed_data, "data.jsonl")
 
 
 if __name__ == "__main__":
