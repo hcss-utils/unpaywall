@@ -8,6 +8,7 @@ __pycache__/
 # Data
 data/tmp
 data/raw_pdfs
+data/processed_pdfs
 
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
