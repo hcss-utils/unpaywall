@@ -1,7 +1,7 @@
 # Unpaywall
 
-This repository contains **unpaywall** python wrapper that 
-downloads metadata and raw_pdf for a given DOI as well as bash wrapper that
+This repository contains an **unpaywall** python wrapper that 
+downloads metadata and raw_pdf for a given DOI as well as a bash wrapper that
 runs **s2orc-doc2json** utility to parse pdfs into jsons. 
 
 **You need to have Python, Java, and Bash installed on your system in order to use it.**
