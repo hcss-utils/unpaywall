@@ -6,7 +6,6 @@ import httpx
 
 EMAIL = "hcssteamukraine@gmail.com"
 BASE_URL = "https://api.unpaywall.org/v2"
-IRRELEVANT_FIELDS = ["first_oa_location", "oa_locations_embargoed", "oa_locations"]
 
 root = os.path.dirname(os.path.abspath(__file__))
 data = os.path.join(root, "data")
