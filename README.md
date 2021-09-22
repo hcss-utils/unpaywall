@@ -48,4 +48,4 @@ See [s2orc-doc2json](s2orc-doc2json/README.md) for more information.
 ## Usage
 
 Update [main.py](main.py) with a list of dois you need to download. 
-Once downloaded, execute [process.sh](process.sh) to parse pdfs into json.
+Then execute [run.sh](run.sh) to parse pdfs into json.
