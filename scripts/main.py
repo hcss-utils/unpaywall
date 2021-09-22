@@ -1,3 +1,4 @@
+import csv
 import uuid
 import json
 import logging
@@ -53,6 +54,13 @@ def log_response(response):
     )
 
 
+def read_csv(p):
+    with open(p, newline="", encoding="ISO-8859-1") as csvfile:
+        csv_reader = csv.DictReader(csvfile, delimiter=",")
+        for row in csv_reader:
+            yield row["DOI"]
+
+
 def stream_response(session, endpoint):
     with session.stream("GET", endpoint) as response:
         for chunk in response.iter_bytes():
@@ -66,6 +74,8 @@ def download(session, response):
     except TypeError:
         logger.info(f'{response["doi"]} - is empty')
         return
+    if pdf_link is None:
+        return
     with open(PDFS / f"{filename}.pdf", "wb") as output:
         for chunk in stream_response(session, pdf_link):
             output.write(chunk)
@@ -78,7 +88,13 @@ def update_jsonl(response, filepath):
 
 
 def fetch(dois):
-    hooks = {"request": [log_request], "response": [raise_on_4xx_5xx, log_response]}
+    hooks = {
+        # "request": [log_request],
+        "response": [
+            raise_on_4xx_5xx,
+            # log_response
+        ]
+    }
     with httpx.Client(timeout=None, event_hooks=hooks) as session:
         for doi in dois:
             response = session.get(f"{BASE_URL}/{doi}?email={EMAIL}")
@@ -94,16 +110,17 @@ def fetch(dois):
 
 if __name__ == "__main__":
 
-    dois = [
-        "10.1016/j.intell.2017.01.008",
-        "10.31228/osf.io/3vuzf",
-        "10.17323/1996-7845-2017-04-32",
-        "10.1177/0010836713494996",
-        "10.7577/njcie.2891",
-        "10.1063/1.1505280",
-        "10.1163/ej.9789004164826.i-794.94",
-        "10.1080/09709274.2010.11906276",
-        "10.30541/v22i4pp.261-282",
-        "10.1057/9781137300355_15",
-    ]
-    fetch(dois)
+    # dois = [
+    #     "10.1016/j.intell.2017.01.008",
+    #     "10.31228/osf.io/3vuzf",
+    #     "10.17323/1996-7845-2017-04-32",
+    #     "10.1177/0010836713494996",
+    #     "10.7577/njcie.2891",
+    #     "10.1063/1.1505280",
+    #     "10.1163/ej.9789004164826.i-794.94",
+    #     "10.1080/09709274.2010.11906276",
+    #     "10.30541/v22i4pp.261-282",
+    #     "10.1057/9781137300355_15",
+    # ]
+    dois = [doi for doi in read_csv(DATA / "TAK-SEEE-RFSDP.csv") if doi != ""]
+    fetch(dois[:100])
