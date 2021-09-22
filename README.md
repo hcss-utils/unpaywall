@@ -13,6 +13,8 @@ git submodule update --init --recursive
 
 In your terminal, you should now be located in your `unpaywall` folder. 
 
+Let's install virtual environment: 
+
 *Linux/MacOS*:
 ```sh
 python3 -m venv env
@@ -28,11 +30,13 @@ pip install -e s2orc-doc2json
 ```
 
 If this command runs without any error messages, you can then move onto the next step,
-which is installing Java as well as Grobid server 
+which is installing Java as well as Grobid server. 
+
+Once you have Java installed (look it up in google), run the following scripts: 
 
 ```sh
-bash s2orc-doc2json/scripts/setup_grobid.sh
-bash s2orc-doc2json/scripts/run_grobid.sh
+bash s2orc-doc2json/scripts/setup_grobid.sh 
+bash s2orc-doc2json/scripts/run_grobid.sh # after 87% it's not stuck - you could use grobid already
 ```
 
 See [s2orc-doc2json](s2orc-doc2json/README.md) for more information.
@@ -40,5 +44,4 @@ See [s2orc-doc2json](s2orc-doc2json/README.md) for more information.
 ## Usage
 
 Update [main.py](main.py) with a list of dois you need to download. 
-
 Once downloaded, execute `process.sh` to parse pdfs into json.
