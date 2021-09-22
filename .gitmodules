@@ -1,0 +1,3 @@
+[submodule "s2orc-doc2json"]
+	path = s2orc-doc2json
+	url = git@github.com:allenai/s2orc-doc2json.git
