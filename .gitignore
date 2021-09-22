@@ -5,6 +5,9 @@ s2orc-doc2json
 __pycache__/
 *.py[cod]
 
+# Data
+data/tmp
+data/raw_pdfs
 
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
