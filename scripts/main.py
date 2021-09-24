@@ -1,5 +1,4 @@
 import csv
-import uuid
 import json
 import logging
 from pathlib import Path
@@ -38,7 +37,7 @@ def raise_on_4xx_5xx(response):
     try:
         response.raise_for_status()
     except httpx.HTTPStatusError:
-        logger.info(f"Errored ({response.status_code}): {str(response.url)}")
+        logger.info(f"Errored ({response.status_code}): {response.url}")
 
 
 def log_request(request):
@@ -58,7 +57,7 @@ def read_csv(p):
     with open(p, newline="", encoding="ISO-8859-1") as csvfile:
         csv_reader = csv.DictReader(csvfile, delimiter=",")
         for row in csv_reader:
-            yield row["DOI"]
+            yield row["DOI"], row["uuid"]
 
 
 def stream_response(session, endpoint):
@@ -67,60 +66,46 @@ def stream_response(session, endpoint):
             yield chunk
 
 
-def download(session, response):
-    filename = response["uuid"]
-    try:
-        pdf_link = response["best_oa_location"]["url_for_pdf"]
-    except TypeError:
-        logger.info(f'{response["doi"]} - is empty')
-        return
-    if pdf_link is None:
-        return
+def download(session, pdf_link, filename):
     with open(PDFS / f"{filename}.pdf", "wb") as output:
         for chunk in stream_response(session, pdf_link):
             output.write(chunk)
 
 
-def update_jsonl(response, filepath):
+def update_jsonl(data, filepath):
     with open(DATA / filepath, "a", encoding="utf-8") as out:
-        json.dump(response, out)
+        json.dump(data, out)
         out.write("\n")
 
 
 def fetch(dois):
-    hooks = {
-        # "request": [log_request],
-        "response": [
-            raise_on_4xx_5xx,
-            # log_response
-        ]
-    }
+    hooks = {"request": [log_request], "response": [raise_on_4xx_5xx, log_response]}
     with httpx.Client(timeout=None, event_hooks=hooks) as session:
-        for doi in dois:
+        for doi, uuid in dois:
             response = session.get(f"{BASE_URL}/{doi}?email={EMAIL}")
             if response.status_code == 404:
                 logging.info(response["message"])
                 continue
+            
             data = response.json()
-            data["uuid"] = uuid.uuid4().hex
-            download(session, data)
-            processed_data = {k: v for k, v in data.items() if k not in USELESS_FIELDS}
-            update_jsonl(processed_data, "data.jsonl")
+            data["uuid"] = uuid
+
+            if not isinstance(data["best_oa_location"], dict):
+                continue
+            pdf_link = data["best_oa_location"]["url_for_pdf"]
+            if pdf_link is None:
+                continue
+
+            download(session=session, pdf_link=pdf_link, filename=data["uuid"])
+            update_jsonl(
+                data={k: v for k, v in data.items() if k not in USELESS_FIELDS},
+                filepath="data.jsonl",
+            )
 
 
 if __name__ == "__main__":
 
-    # dois = [
-    #     "10.1016/j.intell.2017.01.008",
-    #     "10.31228/osf.io/3vuzf",
-    #     "10.17323/1996-7845-2017-04-32",
-    #     "10.1177/0010836713494996",
-    #     "10.7577/njcie.2891",
-    #     "10.1063/1.1505280",
-    #     "10.1163/ej.9789004164826.i-794.94",
-    #     "10.1080/09709274.2010.11906276",
-    #     "10.30541/v22i4pp.261-282",
-    #     "10.1057/9781137300355_15",
-    # ]
-    dois = [doi for doi in read_csv(DATA / "TAK-SEEE-RFSDP.csv") if doi != ""]
+    dois = [
+        (doi, uuid) for doi, uuid in read_csv(DATA / "TAK-SEEE-RFSDP.csv") if doi != ""
+    ]
     fetch(dois[:100])
