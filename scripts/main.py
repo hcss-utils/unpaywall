@@ -57,7 +57,7 @@ def read_csv(p):
     with open(p, newline="", encoding="ISO-8859-1") as csvfile:
         csv_reader = csv.DictReader(csvfile, delimiter=",")
         for row in csv_reader:
-            yield row["DOI"], row["uuid"]
+            yield row["doi"], row["uuid"]
 
 
 def stream_response(session, endpoint):
