@@ -1,3 +1,4 @@
+import ssl
 import csv
 import json
 import logging
@@ -38,6 +39,8 @@ def raise_on_4xx_5xx(response):
         response.raise_for_status()
     except httpx.HTTPStatusError:
         logger.info(f"Errored ({response.status_code}): {response.url}")
+    except httpx.ConnectError:
+        logger.info(f"ConnectError")
 
 
 def log_request(request):
@@ -77,23 +80,49 @@ def update_jsonl(data, filepath):
         json.dump(data, out)
         out.write("\n")
 
-
 def fetch(dois):
-    hooks = {"request": [log_request], "response": [raise_on_4xx_5xx, log_response]}
-    with httpx.Client(timeout=None, event_hooks=hooks) as session:
+
+    _attempted_uuids = []
+    with open(DATA / "traceback_uuids.jsonl", "r") as lines:
+        for line in lines:
+            _attempted_uuids.append(json.loads(line)["row"])
+
+    hooks = {
+        # "request": [log_request], 
+        "response": [
+            raise_on_4xx_5xx, 
+            # log_response
+        ]
+    }
+    ssl_context = httpx.create_ssl_context()
+    ssl_context.options ^= ssl.OP_NO_TLSv1
+    with httpx.Client(timeout=None, event_hooks=hooks, verify=ssl_context) as session:
+        _c = 0
         for doi, uuid in dois:
+            _c += 1
+            if _c % 100 == 0:
+                logger.info(f"Processed {_c} rows.")
+            if uuid in _attempted_uuids:
+                continue
+            update_jsonl(data={"row": uuid}, filepath="traceback_uuids.jsonl")
+
+            if (PDFS / f"{uuid}.pdf").exists():
+                # logger.info(f"{uuid} already exists")
+                continue
             response = session.get(f"{BASE_URL}/{doi}?email={EMAIL}")
             if response.status_code == 404:
-                logging.info(response["message"])
+                logging.info(response.json()["message"])
                 continue
             
             data = response.json()
             data["uuid"] = uuid
 
             if not isinstance(data["best_oa_location"], dict):
+                # logger.info(f"{uuid} doest have 'oa_location'")
                 continue
             pdf_link = data["best_oa_location"]["url_for_pdf"]
             if pdf_link is None:
+                # logger.info(f"{uuid} - empty 'pdf_link'")
                 continue
 
             download(session=session, pdf_link=pdf_link, filename=data["uuid"])
@@ -106,6 +135,6 @@ def fetch(dois):
 if __name__ == "__main__":
 
     dois = [
-        (doi, uuid) for doi, uuid in read_csv(DATA / "TAK-SEEE-RFSDP.csv") if doi != ""
+        (doi, uuid) for doi, uuid in read_csv(DATA / "processed" / "lens-scopus-wos.csv") if doi != ""
     ]
-    fetch(dois[:100])
+    fetch(dois)
