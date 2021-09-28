@@ -41,4 +41,4 @@ if __name__ == "__main__":
         attempted_uuids=ATTEMPTED_UUIDS,
         logger=logger,
     )
-    parser()
+    parser.run()
