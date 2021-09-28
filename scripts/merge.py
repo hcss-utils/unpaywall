@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import json
 from pathlib import Path
 
@@ -42,8 +43,8 @@ def join_parses(processed_pdfs, jsonl):
 
 
 if __name__ == "__main__":
-    result = join_parses(processed_pdfs=PDFS, jsonl=DATA / "data.jsonl")
-    with open(DATA / "processed.jsonl", "w", encoding="utf-8") as out:
+    result = join_parses(processed_pdfs=PDFS, jsonl=DATA / "processed" / "data.jsonl")
+    with open(DATA / "processed" / "processed.jsonl", "w", encoding="utf-8") as out:
         for line in result:
             json.dump(line, out)
             out.write("\n")
