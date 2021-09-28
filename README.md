@@ -29,6 +29,7 @@ Now let's install dependencies:
 
 ```sh
 pip install -r requirements.txt
+pip install -e .
 pip install -r s2orc-doc2json/requirements.txt
 pip install -e s2orc-doc2json
 ```
@@ -47,8 +48,7 @@ See [s2orc-doc2json](s2orc-doc2json/README.md) for more information.
 
 ## Usage
 
-Update [main.py](scripts/main.py) with a list of dois you need to download. 
-Then execute [run.sh](scripts/run.sh) to parse pdfs into json:
+Update [lens-scopus-wos.csv](data/processed/lens-scopus-wos.csv). Then execute [run.sh](scripts/run.sh) to parse pdfs into json (make sure you still have grobid running in another terminal tab):
 
 ```sh
 cd scripts
