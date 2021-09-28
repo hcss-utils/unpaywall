@@ -27,15 +27,6 @@ class Unpaywall:
         self.attempted_uuids = attempted_uuids
         self.logger = logger
         self.context_created = False
-        self.session = None
-
-    def __call__(self):
-        dois = [(doi, uuid) for doi, uuid in self.iter_csv()]
-        self.run(dois)
-
-    def __del__(self):
-        if self.session:
-            self.session.close()
 
     @staticmethod
     def update_jsonl(data, filepath):
@@ -91,51 +82,59 @@ class Unpaywall:
         self._ssl_context = httpx.create_ssl_context()
         self._ssl_context.options ^= ssl.OP_NO_TLSv1
         self._hooks = {"response": [self.raise_on_4xx_5xx]}
-        self._timeout = httpx.Timeout(connect=5, read=5 * 60, write=5, pool=5)
-        self.session = httpx.Client(
-            event_hooks=self._hooks, verify=self._ssl_context, timeout=self._timeout
-        )
+        self._timeout = httpx.Timeout(60, read=5 * 60)
         self.raw_pdfs.mkdir(exist_ok=True, parents=True)
         self.context_created = True
 
-    def fetch(self, doi):
-        return self.session.get(
-            f"{Unpaywall.BASE_URL}/{doi}", params={"email": self.email}
-        )
+    def fetch(self, session, doi):
+        return session.get(f"{Unpaywall.BASE_URL}/{doi}", params={"email": self.email})
 
-    def stream_response(self, endpoint):
+    def stream_response(self, session, endpoint):
         try:
-            with self.session.stream("GET", endpoint, allow_redirects=True) as response:
+            with session.stream("GET", endpoint, allow_redirects=True) as response:
                 for chunk in response.iter_bytes():
                     yield chunk
         except httpx.ConnectError:
-            self.logger.info(f"Errored (connection error): {endpoint}")
+            self.logger.info(f"Errored (ConnectError): {endpoint}")
+        except httpx.TransportError:
+            self.logger.info(f"Errored (TransportError): {endpoint}")
 
-    def download(self, link, filepath):
-        constructed_path = self.raw_pdfs / f"{filepath}.pdf"
+    def download(self, session, endpoint, filename):
+        constructed_path = self.raw_pdfs / f"{filename}.pdf"
         with open(constructed_path, "wb") as out:
-            for chunk in self.stream_response(link):
+            for chunk in self.stream_response(session=session, endpoint=endpoint):
                 out.write(chunk)
 
-    def run(self, dois):
+    def fetch_all(self, dois):
         self.ensure_context_created()
-        for doi, uuid in dois:
+        with httpx.Client(
+            event_hooks=self._hooks, verify=self._ssl_context, timeout=self._timeout
+        ) as session:
+            for doi, uuid in dois:
+                response = self.fetch(session=session, doi=doi)
+                self.update_jsonl({"row": uuid}, self.attempted_uuids)
+                if response.status_code in [403, 404]:
+                    continue
+
+                data = response.json()
+                data["uuid"] = uuid
+                updated = {
+                    k: v for k, v in data.items() if k not in Unpaywall.USELESS_FIELDS
+                }
+                self.update_jsonl(data=updated, filepath=self.jsonl_file)
+                if self._check_missing_links(data):
+                    continue
+                self.download(
+                    session=session,
+                    endpoint=data["best_oa_location"]["url_for_pdf"],
+                    filename=data["uuid"],
+                )
+
+    def run(self):
+        dois = []
+        for doi, uuid in self.iter_csv():
             if self._check_exists(uuid) or self._check_attempted(uuid):
                 continue
-            self.update_jsonl({"row": uuid}, self.attempted_uuids)
-
-            response = self.fetch(doi)
-            if response.status_code in [403, 404]:
-                continue
-
-            data = response.json()
-            data["uuid"] = uuid
-            if self._check_missing_links(data):
-                continue
-
-            self.download(data["best_oa_location"]["url_for_pdf"], data["uuid"])
-            updated = {
-                k: v for k, v in data.items() if k not in Unpaywall.USELESS_FIELDS
-            }
-            self.update_jsonl(updated, self.jsonl_file)
-        self.session.close()
+            dois.append((doi, uuid))
+        self.logger.info(f"{len(dois)} left.")
+        self.fetch_all(dois)
