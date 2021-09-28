@@ -24,22 +24,19 @@ def retrieve_texts(data, field="body_text"):
     return " ".join(section["text"] for section in data[field])
 
 
-def join_parses(processed_pdfs, jsonl):
-    texts = []
+def build_lookup(processed_pdfs):
+    parses = {}
     for pdf in processed_pdfs.rglob("*.json"):
         content = read_json(pdf)
-        texts.append(
-            {
-                "uuid": pdf.stem,
-                "body_text": retrieve_texts(content["pdf_parse"]),
-            }
-        )
+        parses[pdf.stem] = retrieve_texts(content["pdf_parse"])
+    return parses
 
+
+def join_parses(processed_pdfs, jsonl):
     result = []
+    parses = build_lookup(processed_pdfs)
     for line in read_jsonl(jsonl):
-        for text in texts:
-            if line["uuid"] == text["uuid"]:
-                line["content"] = text["body_text"]
+        line["content"] = parses.get(line["uuid"], [])
         result.append(line)
     return result
 
