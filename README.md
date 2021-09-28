@@ -48,7 +48,7 @@ See [s2orc-doc2json](s2orc-doc2json/README.md) for more information.
 
 ## Usage
 
-Update [lens-scopus-wos.csv](data/processed/lens-scopus-wos.csv). Then execute [run.sh](scripts/run.sh) to parse pdfs into json:
+Update [lens-scopus-wos.csv](data/processed/lens-scopus-wos.csv). Then execute [run.sh](scripts/run.sh) to parse pdfs into json (make sure you still have grobid running in another terminal tab):
 
 ```sh
 cd scripts
