@@ -48,7 +48,7 @@ class Unpaywall:
     def _read_attempted_uuids(self):
         if isinstance(self.attempted_uuids, str):
             f = Path(self.attempted_uuids).resolve()
-        if isinstance(self.attempted_uuids, Path):
+        elif isinstance(self.attempted_uuids, Path):
             f = self.attempted_uuids
         else:
             raise ValueError("attempted_uuids should be either str or Path.")
