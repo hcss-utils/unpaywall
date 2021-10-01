@@ -3,6 +3,7 @@ import ssl
 import csv
 import json
 from pathlib import Path
+from datetime import datetime
 
 import httpx
 
@@ -54,7 +55,7 @@ class Unpaywall:
             raise ValueError("attempted_uuids should be either str or Path.")
         if not f.exists():
             return []
-        return [line["row"] for line in self.iter_jsonl(f)]
+        return [line["uuid"] for line in self.iter_jsonl(f)]
 
     def _check_attempted(self, uuid):
         attempted = self._read_attempted_uuids()
@@ -65,9 +66,11 @@ class Unpaywall:
 
     def _check_missing_links(self, data):
         if not isinstance(data["best_oa_location"], dict):
+            self.logger.info(f'Missing oa_location: {data["doi"]}')
             return True
         pdf_link = data["best_oa_location"]["url_for_pdf"]
         if pdf_link is None:
+            self.logger.info(f'Missing url_for_pdf: {data["doi"]}')
             return True
 
     def raise_on_4xx_5xx(self, response):
@@ -112,7 +115,10 @@ class Unpaywall:
         ) as session:
             for doi, uuid in dois:
                 response = self.fetch(session=session, doi=doi)
-                self.update_jsonl({"row": uuid}, self.attempted_uuids)
+                self.update_jsonl(
+                    data={"uuid": uuid, "doi": doi, "ts": datetime.now().isoformat()},
+                    filepath=self.attempted_uuids,
+                )
                 if response.status_code in [403, 404]:
                     continue
 
